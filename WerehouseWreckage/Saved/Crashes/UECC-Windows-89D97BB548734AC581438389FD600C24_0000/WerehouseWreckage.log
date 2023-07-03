@@ -1,0 +1,1073 @@
+﻿Log file open, 08/01/22 17:11:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=1632)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WerehouseWreckage
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\user\OneDrive\Έγγραφα\Unreal Projects\WerehouseWreckage\WerehouseWreckage.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1826] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2037605746dfc8846e2ebfa59c9e4367"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.315276
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-89D97BB548734AC581438389FD600C24
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1826] (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1650
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.01-14.11.33:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.01-14.11.33:616][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.01-14.11.33:616][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.01-14.11.33:616][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.01-14.11.33:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.01-14.11.33:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.01-14.11.33:635][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.01-14.11.33:635][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.01-14.11.33:635][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.01-14.11.33:635][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.01-14.11.33:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.01-14.11.33:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.01-14.11.33:636][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.01-14.11.33:641][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.01-14.11.33:820][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.01-14.11.33:821][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.01-14.11.34:331][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.01-14.11.34:331][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 8158MB of shared system memory, 2 output[s]
+[2022.08.01-14.11.34:350][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.01-14.11.34:350][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8158MB of shared system memory, 0 output[s]
+[2022.08.01-14.11.34:351][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.01-14.11.34:351][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.01-14.11.34:352][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.01-14.11.34:352][  0]LogHAL: Display: Platform has ~ 16 GB [17109585920 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.01-14.11.34:352][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.01-14.11.34:352][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.01-14.11.34:352][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.01-14.11.34:352][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.01-14.11.34:352][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.01-14.11.34:352][  0]LogInit: Computer: DIMITRIS
+[2022.08.01-14.11.34:352][  0]LogInit: User: user
+[2022.08.01-14.11.34:352][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.08.01-14.11.34:352][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.01-14.11.34:352][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.01-14.11.34:352][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.01-14.11.34:352][  0]LogMemory: Process Physical Memory: 271.89 MB used, 286.90 MB peak
+[2022.08.01-14.11.34:352][  0]LogMemory: Process Virtual Memory: 227.28 MB used, 227.28 MB peak
+[2022.08.01-14.11.34:352][  0]LogMemory: Physical Memory: 7181.48 MB used,  9135.49 MB free, 16316.97 MB total
+[2022.08.01-14.11.34:352][  0]LogMemory: Virtual Memory: 12357.49 MB used,  12151.48 MB free, 24508.97 MB total
+[2022.08.01-14.11.34:352][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.01-14.11.34:361][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.01-14.11.34:377][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.01-14.11.34:377][  0]LogInit: Using OS detected language (en-US).
+[2022.08.01-14.11.34:377][  0]LogInit: Using OS detected locale (en-GB).
+[2022.08.01-14.11.34:379][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.08.01-14.11.34:534][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.01-14.11.34:551][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.01-14.11.34:551][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.08.01-14.11.34:551][  0]LogWindowsTextInputMethodSystem:   - Greek (Greece) - (Keyboard).
+[2022.08.01-14.11.34:551][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Ink Correction (TSF IME).
+[2022.08.01-14.11.34:551][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.08.01-14.11.34:567][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.01-14.11.34:567][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.01-14.11.34:692][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.01-14.11.34:697][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.01-14.11.34:697][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.01-14.11.34:799][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.01-14.11.34:894][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.01-14.11.34:902][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.01-14.11.34:919][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.01-14.11.34:974][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.01-14.11.34:974][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.01-14.11.35:024][  0]LogD3D12RHI:     GPU DeviceId: 0x1f82 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.01-14.11.35:024][  0]LogWindows: Attached monitors:
+[2022.08.01-14.11.35:024][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY6' [PRIMARY]
+[2022.08.01-14.11.35:024][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY7'
+[2022.08.01-14.11.35:024][  0]LogWindows: Found 2 attached monitors.
+[2022.08.01-14.11.35:024][  0]LogWindows: EnumDisplayDevices:
+[2022.08.01-14.11.35:024][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650' (P:1 D:1), name: '\\.\DISPLAY6'
+[2022.08.01-14.11.35:025][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650' (P:0 D:1), name: '\\.\DISPLAY7'
+[2022.08.01-14.11.35:025][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.08.01-14.11.35:025][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY9'
+[2022.08.01-14.11.35:025][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.08.01-14.11.35:025][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.08.01-14.11.35:025][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.08.01-14.11.35:025][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2022.08.01-14.11.35:026][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2022.08.01-14.11.35:026][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.01-14.11.35:026][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.01-14.11.35:040][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.01-14.11.35:046][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/WerehouseWreckage.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/TurnkeyReport_0.log" -log="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/TurnkeyLog_0.log" -project="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/WerehouseWreckage.uproject"  -platform=all'
+[2022.08.01-14.11.35:046][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/WerehouseWreckage.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/TurnkeyReport_0.log" -log="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/TurnkeyLog_0.log" -project="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/WerehouseWreckage.uproject"  -platform=all" ]
+[2022.08.01-14.11.35:083][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.01-14.11.35:092][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.01-14.11.35:092][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.01-14.11.35:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.01-14.11.35:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.01-14.11.35:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.01-14.11.35:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.01-14.11.35:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.01-14.11.35:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.01-14.11.35:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.01-14.11.35:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.01-14.11.35:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.01-14.11.35:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.01-14.11.35:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.01-14.11.35:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.01-14.11.35:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.01-14.11.35:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.01-14.11.35:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.01-14.11.35:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.01-14.11.35:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.01-14.11.35:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.01-14.11.35:151][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.01-14.11.35:160][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.01-14.11.35:164][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.01-14.11.35:164][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.01-14.11.35:164][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.01-14.11.35:164][  0]LogTargetPlatformManager:   PCM
+[2022.08.01-14.11.35:168][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.01-14.11.35:168][  0]LogTargetPlatformManager:   BINKA
+[2022.08.01-14.11.35:168][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.01-14.11.35:168][  0]LogTargetPlatformManager:   OGG
+[2022.08.01-14.11.35:168][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.01-14.11.35:168][  0]LogTargetPlatformManager:   OPUS
+[2022.08.01-14.11.35:218][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.01-14.11.35:225][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.01-14.11.35:228][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.01-14.11.35:228][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.01-14.11.35:229][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.01-14.11.35:229][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.01-14.11.35:229][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.01-14.11.35:229][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.01-14.11.35:229][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.01-14.11.35:229][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.01-14.11.35:229][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.01-14.11.35:238][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.01-14.11.35:268][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.08.01-14.11.35:268][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.01-14.11.35:268][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.01-14.11.35:269][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.01-14.11.35:269][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.01-14.11.35:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.01-14.11.35:272][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.01-14.11.35:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.01-14.11.35:272][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.01-14.11.35:291][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.01-14.11.35:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.01-14.11.35:291][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.01-14.11.35:299][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.08.01-14.11.35:299][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=685.26MBs, RandomWriteSpeed=179.65MBs. Assigned SpeedClass 'Local'
+[2022.08.01-14.11.35:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.01-14.11.35:300][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.01-14.11.35:300][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.01-14.11.35:305][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.01-14.11.35:305][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.01-14.11.35:305][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Intermediate/Shaders/WorkingDirectory/22044/).
+[2022.08.01-14.11.35:305][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/A57A6F454BE8C50AC4F694A6BAEB0D76/'.
+[2022.08.01-14.11.35:306][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.01-14.11.35:306][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.08.01-14.11.36:585][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.01-14.11.36:585][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.01-14.11.36:625][  0]LogAssetRegistry: FAssetRegistry took 0.0111 seconds to start up
+[2022.08.01-14.11.36:632][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.01-14.11.36:806][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.01-14.11.36:807][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.01-14.11.37:062][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.01-14.11.37:062][  0]LogDeviceProfileManager: Active device profile: [000007E315237FC0][000007E30AF15000 50] WindowsEditor
+[2022.08.01-14.11.37:062][  0]LogDeviceProfileManager: Profiles: [000007E315237A80][000007E30AF1A000 50] Windows, [000007E315237FC0][000007E30AF15000 50] WindowsEditor, [000007E3152378C0][000007E30AF12800 50] WindowsServer, [000007E315234980][000007E30AD8A000 50] WindowsClient, [000007E3152340C0][000007E30AF17800 50] IOS, [000007E315238180][000007E315560000 50] iPadAir2, [000007E315238DC0][000007E315567800 50] IPadPro, [000007E315239140][000007E315565000 50] iPadAir3, [000007E315234440][000007E31556A000 50] iPadAir4, [000007E315237380][000007E31556C800 50] iPadMini4, [000007E315233480][000007E2F6F25000 50] iPadMini5, [000007E3152371C0][000007E315520000 50] iPadMini6, [000007E31523BB40][000007E31552A000 50] iPhone6S, [000007E31523BEC0][000007E315527800 50] iPhone7, [000007E31523C240][000007E315525000 50] iPodTouch7, [000007E315236E40][000007E31552C800 50] iPhone6SPlus, [000007E315235780][000007E315562800 50] iPhone7Plus, [000007E315236580][000007E315570000 50] iPhoneSE, [000007E315237700][000007E315575000 50] iPhone8, [000007E315236AC0][000007E315577800 50] iPhone8Plus, [000007E31523A640][000007E31557A000 50] iPhoneX, [000007E315236740][000007E31557C800 50] iPhoneXS, [000007E315234EC0][000007E315522800 50] iPhoneXSMax, [000007E31523B980][000007E3155B0000 50] iPhoneXR, [000007E315238F80][000007E3155B5000 50] iPhone11, [000007E315239BC0][000007E3155B7800 50] iPhone11Pro, [000007E31523A100][000007E3155BA000 50] iPhone11ProMax, [000007E315235CC0][000007E3155BC800 50] iPhoneSE2, [000007E315235240][000007E315572800 50] iPhone12Mini, [000007E31523A9C0][000007E3155C0000 50] iPhone12, [000007E315235080][000007E3155C5000 50] iPhone12Pro, [000007E315236040][000007E3155C7800 50] iPhone12ProMax, [000007E31523B0C0][000007E3155CA000 50] iPhone13Mini, [000007E315235400][000007E3155CC800 50] iPhone13, [000007E31523BD00][000007E3155B2800 50] iPhone13Pro, [000007E315236C80][000007E3155D0000 50] iPhone13ProMax, [000007E315239D80][000007E3155D5000 50] iPadPro105, [000007E3152355C0][000007E3155D7800 50] iPadPro129, [000007E31523A2C0][000007E3155DA000 50] iPadPro97, [000007E315233640][000007E3155DC800 50] iPadPro2_129, [000007E315236200][000007E3155C2800 50] iPad5, [000007E315234B40][000007E3155E0000 50] iPad6, [000007E315235940][000007E3155E5000 50] iPad7, [000007E315239680][000007E3155E7800 50] iPad8, [000007E315233F00][000007E3155EA000 50] iPad9, [000007E315237E00][000007E3155EC800 50] iPadPro11, [000007E31523C400][000007E3155D2800 50] iPadPro2_11, [000007E31523AD40][000007E3155F0000 50] iPadPro3_11, [000007E315237000][000007E3155F5000 50] iPadPro3_129, [000007E315239300][000007E3155F7800 50] iPadPro4_129, [000007E31523C780][000007E3155FA000 50] iPadPro5_129, [000007E315235E80][000007E3155FC800 50] AppleTV, [000007E31523C940][000007E3155E2800 50] AppleTV4K, [000007E31523B280][000007E315600000 50] TVOS, [000007E31523DAC0][000007E315607800 50] Mac, [000007E31523DE40][000007E315605000 50] MacEditor, [000007E31523D900][000007E31560A000 50] MacClient, [000007E31523B600][000007E31560C800 50] MacServer, [000007E31523E000][000007E315620000 50] Linux, [000007E3152386C0][000007E315622800 50] LinuxEditor, [000007E31523B440][000007E315627800 50] LinuxArm64Editor, [000007E31523D740][000007E31562A000 50] LinuxArm64, [000007E31523E8C0][000007E31562C800 50] LinuxClient, [000007E31523AF00][000007E3155F2800 50] LinuxArm64Client, [000007E31523D3C0][000007E315625000 50] LinuxServer, [000007E31523B7C0][000007E315590000 50] LinuxArm64Server, [000007E31523CE80][000007E315595000 50] Android, [000007E31523E380][000007E315597800 50] Android_Preview_OpenGL, [000007E31523DC80][000007E31559A000 50] Android_Preview_Vulkan, [000007E3152394C0][000007E31559C800 50] Android_Low, [000007E31523AB80][000007E315602800 50] Android_Mid, [000007E315232F40][000007E315630000 50] Android_High, [000007E315239840][000007E315635000 50] Android_Default, [000007E315238A40][000007E315637800 50] Android_Adreno4xx, [000007E31523D040][000007E31563A000 50] Android_Adreno5xx_Low, [000007E315239F40][000007E31563C800 50] Android_Adreno5xx, [000007E315237540][000007E315592800 50] Android_Adreno6xx, [000007E3152363C0][000007E315640000 50] Android_Adreno6xx_Vulkan, [000007E31523A480][000007E315645000 50] Android_Adreno7xx, [000007E31523D200][000007E315647800 50] Android_Adreno7xx_Vulkan, [000007E31523EA80][000007E31564A000 50] Android_Mali_T6xx, [000007E31523E1C0][000007E31564C800 50] Android_Mali_T7xx, [000007E315238880][000007E315632800 50] Android_Mali_T8xx, [000007E315235B00][000007E315650000 50] Android_Mali_G71, [000007E3152347C0][000007E315655000 50] Android_Mali_G72, [000007E315233800][000007E315657800 50] Android_Mali_G72_Vulkan, [000007E315239A00][000007E31565A000 50] Android_Mali_G76, [000007E31523E540][000007E31565C800 50] Android_Mali_G76_Vulkan, [000007E31523C5C0][000007E315642800 50] Android_Mali_G77, [000007E315238340][000007E315660000 50] Android_Mali_G77_Vulkan, [000007E31523CB00][000007E315665000 50] Android_Mali_G78, [000007E315238500][000007E315667800 50] Android_Mali_G78_Vulkan, [000007E315238C00][000007E31566A000 50] Android_Mali_G710, [000007E315236900][000007E31566C800 50] Android_Mali_G710_Vulkan, [000007E315670000][000007E315652800 50] Android_Xclipse_920, [000007E315672300][000007E315680000 50] Android_Xclipse_920_Vulkan, [000007E315672140][000007E315685000 50] Android_Vulkan_SM5, [000007E315671F80][000007E315687800 50] Android_PowerVR_G6xxx, [000007E315671DC0][000007E31568A000 50] Android_PowerVR_GT7xxx, [000007E3156724C0][000007E31568C800 50] Android_PowerVR_GE8xxx, [000007E315670380][000007E315662800 50] Android_PowerVR_GM9xxx, [000007E3156701C0][000007E315690000 50] Android_PowerVR_GM9xxx_Vulkan, [000007E315670C40][000007E315695000 50] Android_TegraK1, [000007E315672D80][000007E315697800 50] Android_Unknown_Vulkan, [000007E315671880][000007E31569A000 50] Oculus_Quest, [000007E315672840][000007E31569C800 50] Oculus_Quest2, [000007E315670A80][000007E315682800 50] HoloLens, 
+[2022.08.01-14.11.37:062][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.01-14.11.37:075][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.01-14.11.37:272][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.01-14.11.37:272][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.01-14.11.37:272][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.01-14.11.37:272][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.01-14.11.37:272][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.01-14.11.37:288][  0]LogNetVersion: WerehouseWreckage 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1474461841)
+[2022.08.01-14.11.37:413][  0]LogSlate: Border
+[2022.08.01-14.11.37:413][  0]LogSlate: BreadcrumbButton
+[2022.08.01-14.11.37:413][  0]LogSlate: Default
+[2022.08.01-14.11.37:413][  0]LogSlate: Icons.Save
+[2022.08.01-14.11.37:413][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.01-14.11.37:413][  0]LogSlate: ListView
+[2022.08.01-14.11.37:413][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.01-14.11.37:413][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.01-14.11.37:413][  0]LogSlate: TableView.DarkRow
+[2022.08.01-14.11.37:413][  0]LogSlate: TableView.Row
+[2022.08.01-14.11.37:413][  0]LogSlate: TreeView
+[2022.08.01-14.11.37:680][  0]SourceControl: Source control is disabled
+[2022.08.01-14.11.37:707][  0]SourceControl: Source control is disabled
+[2022.08.01-14.11.37:707][  0]SourceControl: Source control is disabled
+[2022.08.01-14.11.37:872][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.01-14.11.37:872][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.08.01-14.11.37:872][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.01-14.11.38:314][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F262467B4A0B72D02DB27096DF214D80 | Instance: DC466C3D4A391E7749ADE9A34B9DB53E (DIMITRIS-22044).
+[2022.08.01-14.11.38:372][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.01-14.11.38:398][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.01-14.11.38:410][  0]LogPython: Using Python 3.9.7
+[2022.08.01-14.11.40:808][  0]SourceControl: Source control is disabled
+[2022.08.01-14.11.40:817][  0]SourceControl: Source control is disabled
+[2022.08.01-14.11.40:821][  0]SourceControl: Source control is disabled
+[2022.08.01-14.11.40:857][  0]LogUProjectInfo: Found projects:
+[2022.08.01-14.11.40:863][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.01-14.11.40:865][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.01-14.11.40:866][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.01-14.11.41:152][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.01-14.11.41:186][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.01-14.11.41:211][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.01-14.11.41:211][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.01-14.11.41:319][  0]LogCollectionManager: Loaded 0 collections in 0.001016 seconds
+[2022.08.01-14.11.41:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Saved/Collections/' took 0.00s
+[2022.08.01-14.11.41:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/Developers/user/Collections/' took 0.00s
+[2022.08.01-14.11.41:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/Collections/' took 0.00s
+[2022.08.01-14.11.41:799][  0]LogEngine: Initializing Engine...
+[2022.08.01-14.11.41:842][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.01-14.11.41:952][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.01-14.11.42:217][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.01-14.11.42:218][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-14.11.42:228][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-14.11.42:261][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.01-14.11.42:262][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.01-14.11.42:287][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.01-14.11.42:288][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.01-14.11.42:288][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.01-14.11.42:289][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.01-14.11.42:289][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.01-14.11.42:289][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-14.11.42:289][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-14.11.42:289][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-14.11.42:289][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-14.11.42:289][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-14.11.42:289][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-14.11.42:289][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-14.11.42:289][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-14.11.42:289][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-14.11.42:289][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-14.11.42:289][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-14.11.42:296][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-14.11.42:355][  0]LogAudioMixer: Display: Using Audio Hardware Device Ηχεία (Realtek(R) Audio)
+[2022.08.01-14.11.42:355][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-14.11.42:357][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-14.11.42:357][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-14.11.42:358][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.01-14.11.42:358][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.01-14.11.42:359][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.01-14.11.42:359][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.01-14.11.42:359][  0]LogInit: FAudioDevice initialized.
+[2022.08.01-14.11.42:378][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.01-14.11.42:378][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.01-14.11.42:378][  0]LogInit: Texture streaming: Enabled
+[2022.08.01-14.11.42:416][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.01-14.11.42:427][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.01-14.11.42:452][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.01-14.11.42:460][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.01-14.11.42:460][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.01-14.12.28:912][  0]LogLiveCoding: Display: First instance in process group "UE_WerehouseWreckage_0x32f0b7a3", spawning console
+[2022.08.01-14.12.28:912][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.01-14.12.28:912][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.01-14.12.28:915][  0]LogInit: Transaction tracking system initialized
+[2022.08.01-14.12.29:002][  0]BlueprintLog: New page: Editor Load
+[2022.08.01-14.12.29:266][  0]LocalizationService: Localization service is disabled
+[2022.08.01-14.12.29:320][  0]TimingProfiler: Initialize
+[2022.08.01-14.12.29:320][  0]TimingProfiler: OnSessionChanged
+[2022.08.01-14.12.29:320][  0]LoadingProfiler: Initialize
+[2022.08.01-14.12.29:320][  0]LoadingProfiler: OnSessionChanged
+[2022.08.01-14.12.29:320][  0]NetworkingProfiler: Initialize
+[2022.08.01-14.12.29:320][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.01-14.12.29:320][  0]MemoryProfiler: Initialize
+[2022.08.01-14.12.29:320][  0]MemoryProfiler: OnSessionChanged
+[2022.08.01-14.12.29:534][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.01-14.12.29:535][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.01-14.12.29:535][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.01-14.12.30:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/' took 0.00s
+[2022.08.01-14.12.30:255][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.01-14.12.30:358][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.01-14.12.30:363][  0]SourceControl: Source control is disabled
+[2022.08.01-14.12.30:363][  0]LogUnrealEdMisc: Loading editor; pre map load, took 65.337
+[2022.08.01-14.12.30:452][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/UE_5.0/FeaturePacks/StarterContent.upack)
+[2022.08.01-14.12.30:570][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.08.01-14.12.31:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.08.01-14.12.31:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.08.01-14.12.31:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.08.01-14.12.31:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.08.01-14.12.31:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.08.01-14.12.31:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.08.01-14.12.31:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.08.01-14.12.31:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.08.01-14.12.32:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.08.01-14.12.32:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.08.01-14.12.32:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.08.01-14.12.33:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.08.01-14.12.33:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.08.01-14.12.34:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.08.01-14.12.34:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.08.01-14.12.34:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.08.01-14.12.34:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.08.01-14.12.34:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.08.01-14.12.34:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.08.01-14.12.34:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.08.01-14.12.34:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.08.01-14.12.34:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.08.01-14.12.34:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.08.01-14.12.34:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.08.01-14.12.34:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.08.01-14.12.34:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.08.01-14.12.34:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.08.01-14.12.34:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.08.01-14.12.34:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.08.01-14.12.34:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.08.01-14.12.34:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.08.01-14.12.34:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.08.01-14.12.34:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.08.01-14.12.34:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.08.01-14.12.34:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.08.01-14.12.34:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.08.01-14.12.34:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.08.01-14.12.34:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.08.01-14.12.34:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.08.01-14.12.34:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.08.01-14.12.34:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.08.01-14.12.34:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.08.01-14.12.34:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.08.01-14.12.34:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.08.01-14.12.34:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.08.01-14.12.34:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.08.01-14.12.34:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.08.01-14.12.34:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.08.01-14.12.34:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.08.01-14.12.34:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.08.01-14.12.34:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Fire01.uasset"
+[2022.08.01-14.12.34:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.08.01-14.12.34:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.08.01-14.12.34:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.08.01-14.12.34:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Light01.uasset"
+[2022.08.01-14.12.34:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.08.01-14.12.34:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Light02.uasset"
+[2022.08.01-14.12.34:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.08.01-14.12.34:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.08.01-14.12.34:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.08.01-14.12.34:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.08.01-14.12.34:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.08.01-14.12.34:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.08.01-14.12.34:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.08.01-14.12.34:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.08.01-14.12.34:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.08.01-14.12.34:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Steam01.uasset"
+[2022.08.01-14.12.34:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.08.01-14.12.34:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.08.01-14.12.34:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.08.01-14.12.35:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.08.01-14.12.35:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.08.01-14.12.35:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.08.01-14.12.35:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.08.01-14.12.35:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.08.01-14.12.35:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.08.01-14.12.35:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.08.01-14.12.35:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.08.01-14.12.35:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.08.01-14.12.35:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Door.uasset"
+[2022.08.01-14.12.35:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.08.01-14.12.35:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.08.01-14.12.35:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.08.01-14.12.35:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.08.01-14.12.35:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.08.01-14.12.35:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.08.01-14.12.35:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.08.01-14.12.35:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.08.01-14.12.35:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.08.01-14.12.35:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.08.01-14.12.35:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.08.01-14.12.35:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.08.01-14.12.35:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.08.01-14.12.35:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.08.01-14.12.35:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.08.01-14.12.35:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.08.01-14.12.35:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.08.01-14.12.35:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.08.01-14.12.35:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.08.01-14.12.35:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.08.01-14.12.35:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.08.01-14.12.35:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.08.01-14.12.35:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.08.01-14.12.35:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.08.01-14.12.35:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.08.01-14.12.35:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.08.01-14.12.35:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.08.01-14.12.35:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.08.01-14.12.35:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.08.01-14.12.35:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.08.01-14.12.35:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.08.01-14.12.35:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.08.01-14.12.35:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.08.01-14.12.35:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.08.01-14.12.35:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.08.01-14.12.35:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.08.01-14.12.35:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.08.01-14.12.35:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.08.01-14.12.35:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.08.01-14.12.35:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.08.01-14.12.35:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.08.01-14.12.35:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.08.01-14.12.35:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.08.01-14.12.35:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.08.01-14.12.35:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/StarterMap.umap"
+[2022.08.01-14.12.35:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.08.01-14.12.36:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.08.01-14.12.36:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.08.01-14.12.36:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.08.01-14.12.36:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.08.01-14.12.36:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.08.01-14.12.36:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.08.01-14.12.36:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.08.01-14.12.37:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.08.01-14.12.37:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.08.01-14.12.37:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.08.01-14.12.37:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.08.01-14.12.37:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.08.01-14.12.37:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.08.01-14.12.37:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.08.01-14.12.37:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.08.01-14.12.37:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.08.01-14.12.37:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.08.01-14.12.37:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.08.01-14.12.37:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.08.01-14.12.37:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.08.01-14.12.37:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.08.01-14.12.37:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.08.01-14.12.37:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.08.01-14.12.38:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.08.01-14.12.38:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.08.01-14.12.38:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.08.01-14.12.38:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.08.01-14.12.38:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.08.01-14.12.38:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.08.01-14.12.38:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.08.01-14.12.38:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.08.01-14.12.38:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.08.01-14.12.39:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.08.01-14.12.39:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.08.01-14.12.39:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.08.01-14.12.39:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.08.01-14.12.39:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.08.01-14.12.39:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.08.01-14.12.39:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.08.01-14.12.39:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.08.01-14.12.39:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.08.01-14.12.39:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.08.01-14.12.39:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.08.01-14.12.39:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.08.01-14.12.39:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.08.01-14.12.39:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.08.01-14.12.39:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.08.01-14.12.39:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.08.01-14.12.39:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.08.01-14.12.40:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.08.01-14.12.40:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.08.01-14.12.40:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.08.01-14.12.40:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.08.01-14.12.40:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.08.01-14.12.40:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.08.01-14.12.40:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.08.01-14.12.40:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.08.01-14.12.40:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.08.01-14.12.40:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.08.01-14.12.40:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.08.01-14.12.40:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.08.01-14.12.40:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.08.01-14.12.40:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.08.01-14.12.40:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.08.01-14.12.40:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.08.01-14.12.40:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.08.01-14.12.40:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.08.01-14.12.41:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.08.01-14.12.41:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.08.01-14.12.41:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.08.01-14.12.41:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.08.01-14.12.42:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.08.01-14.12.42:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.08.01-14.12.42:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.08.01-14.12.42:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.08.01-14.12.42:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.08.01-14.12.42:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.08.01-14.12.42:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.08.01-14.12.42:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.08.01-14.12.43:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.08.01-14.12.43:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.08.01-14.12.43:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.08.01-14.12.43:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.08.01-14.12.43:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.08.01-14.12.43:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.08.01-14.12.43:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.08.01-14.12.43:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.08.01-14.12.44:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.08.01-14.12.44:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.08.01-14.12.44:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.08.01-14.12.44:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.08.01-14.12.44:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.08.01-14.12.44:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.08.01-14.12.44:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.08.01-14.12.44:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.08.01-14.12.44:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.08.01-14.12.44:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.08.01-14.12.44:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.08.01-14.12.44:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.08.01-14.12.44:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.08.01-14.12.44:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.08.01-14.12.44:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.08.01-14.12.44:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.08.01-14.12.44:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.08.01-14.12.44:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.08.01-14.12.44:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.08.01-14.12.44:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.08.01-14.12.44:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.08.01-14.12.44:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.08.01-14.12.45:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.08.01-14.12.45:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.08.01-14.12.45:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.08.01-14.12.45:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.08.01-14.12.45:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.08.01-14.12.45:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.08.01-14.12.45:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.08.01-14.12.45:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.08.01-14.12.45:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.08.01-14.12.45:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.08.01-14.12.45:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.08.01-14.12.45:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.08.01-14.12.45:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.08.01-14.12.45:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.08.01-14.12.45:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.08.01-14.12.45:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.08.01-14.12.45:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.08.01-14.12.45:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.08.01-14.12.45:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.08.01-14.12.45:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.08.01-14.12.45:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.08.01-14.12.45:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.08.01-14.12.45:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.08.01-14.12.45:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.08.01-14.12.45:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.08.01-14.12.45:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.08.01-14.12.45:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.08.01-14.12.45:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.08.01-14.12.45:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.08.01-14.12.45:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.08.01-14.12.45:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.08.01-14.12.45:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.08.01-14.12.45:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.08.01-14.12.45:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.08.01-14.12.45:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.08.01-14.12.45:882][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.08.01-14.12.46:370][  0]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight) ...
+[2022.08.01-14.12.47:898][  0]LogTexture: Display: Building textures: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight (RGBA16F, 7372X3686 X1X1) (Required Memory Estimate: 518.287506 MB), EncodeSpeed: Fast
+[2022.08.01-14.12.48:396][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.076772 seconds
+[2022.08.01-14.12.52:687][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2022.08.01-14.12.52:687][  0]LogSavePackage: Moving 'C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Saved/HDRI_Epic_Courtyard_DaylightF3AF71DE44982D126BE6CFBFFBD86D9F.tmp' to 'C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset'
+[2022.08.01-14.12.53:237][  0]LogFeaturePack: Inserted 1 feature packs
+[2022.08.01-14.12.53:238][  0]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.01-14.12.53:238][  0]LightingResults: New page: Lighting Build
+[2022.08.01-14.12.53:245][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-14.12.53:245][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-14.12.53:246][  0]MapCheck: New page: Map Check
+[2022.08.01-14.12.53:246][  0]LightingResults: New page: Lighting Build
+[2022.08.01-14.12.53:272][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.01-14.12.53:274][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.01-14.12.57:698][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.08.01-14.12.57:725][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.08.01-14.12.57:755][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.08.01-14.12.57:784][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.08.01-14.12.58:131][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.08.01-14.12.58:131][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-14.12.58:131][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-14.12.58:132][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.01-14.12.58:361][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.01-14.12.58:419][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.01-14.12.58:419][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.01-14.12.58:419][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2022.08.01-14.12.58:419][  0]LogFileHelpers: Loading map 'Minimal_Default' took 5.181
+[2022.08.01-14.12.58:458][  0]LogUnrealEdMisc: Total Editor Startup Time, took 93.432
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: ================================================
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.01-14.12.58:458][  0]LogShaderCompilers: Display: ================================================
+[2022.08.01-14.12.59:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-14.12.59:617][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-14.12.59:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-14.12.59:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-14.13.00:583][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:583][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:584][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:584][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:584][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:584][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:585][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:585][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:586][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:586][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:586][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:586][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:587][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:587][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:587][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:587][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:588][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:588][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:588][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.01-14.13.00:588][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-14.13.00:588][  0]LogFeaturePack: Error: Error in Feature pack E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.01-14.13.00:861][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.01-14.13.00:996][  0]LogSlate: Took 0.029193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.01-14.13.01:003][  0]LogSlate: Took 0.006238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.01-14.13.01:063][  0]LogViewport: Scene viewport resized to 1416x902, mode Windowed.
+[2022.08.01-14.13.05:425][  0]LogStall: Startup...
+[2022.08.01-14.13.05:427][  0]LogStall: Startup complete.
+[2022.08.01-14.13.05:483][  0]LogLoad: (Engine Initialization) Total time: 100.46 seconds
+[2022.08.01-14.13.05:483][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.01-14.13.05:617][  0]AssetCheck: New page: Asset Save: HDRI_Epic_Courtyard_Daylight
+[2022.08.01-14.13.05:631][  0]LogContentValidation: Display: Validating TextureCube /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2022.08.01-14.13.05:696][  0]LogAssetRegistry: Asset discovery search completed in 89.0719 seconds
+[2022.08.01-14.13.05:702][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.08.01-14.13.05:702][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.01-14.13.06:070][  0]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.01-14.13.07:340][  1]LogMeshUtilities: Finished distance field build in 1.1s - 14x14x21 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 594 triangles, SM_Chair
+[2022.08.01-14.13.07:911][  3]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.01-14.13.35:356][ 84]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.013 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-14.25.03:342][137]LogSlate: Took 0.021250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.01-14.25.03:444][137]LogSlate: Took 0.014918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.01-14.25.33:653][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.01-14.25.34:253][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling should be resaved to improve async compilation performance.
+[2022.08.01-14.25.34:254][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:211][941]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:211][941]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:212][941]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:249][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/MaterialSphere.MaterialSphere should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:286][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:286][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:312][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:312][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:313][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300 should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:313][941]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:313][941]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:313][941]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:313][941]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2022.08.01-14.25.35:886][941]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.08.01-14.25.35:894][941]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.01-14.25.35:894][941]LightingResults: New page: Lighting Build
+[2022.08.01-14.25.35:894][941]LoadErrors: New page: Loading map: StarterMap.umap
+[2022.08.01-14.25.35:952][941]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-14.25.35:963][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-14.25.35:974][941]MapCheck: New page: Map Check
+[2022.08.01-14.25.35:974][941]LightingResults: New page: Lighting Build
+[2022.08.01-14.25.35:981][941]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.01-14.25.36:038][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: ================================================
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.01-14.25.36:077][941]LogShaderCompilers: Display: ================================================
+[2022.08.01-14.25.36:447][941]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-14.25.36:447][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-14.25.36:466][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.01-14.25.36:473][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.01-14.25.36:542][941]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2022.08.01-14.25.36:542][941]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-14.25.36:543][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-14.25.36:543][941]LogAIModule: Creating AISystem for world StarterMap
+[2022.08.01-14.25.36:697][941]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.01-14.25.36:736][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.08.01-14.25.36:742][941]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.01-14.25.36:742][941]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2022.08.01-14.25.36:742][941]LogFileHelpers: Loading map 'StarterMap' took 0.848
+[2022.08.01-14.26.06:917][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.08.01-14.26.06:997][246]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.08.01-14.26.06:997][246]Cmd: MAP LOAD FILE="C:/Users/user/OneDrive/Έγγραφα/Unreal Projects/WerehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.01-14.26.06:997][246]LightingResults: New page: Lighting Build
+[2022.08.01-14.26.06:997][246]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2022.08.01-14.26.07:001][246]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-14.26.07:001][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-14.26.07:001][246]MapCheck: New page: Map Check
+[2022.08.01-14.26.07:001][246]LightingResults: New page: Lighting Build
+[2022.08.01-14.26.07:008][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.01-14.26.07:011][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.01-14.26.07:014][246]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-14.26.07:014][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-14.26.07:022][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.01-14.26.07:028][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.08.01-14.26.07:043][246]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.08.01-14.26.07:043][246]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-14.26.07:043][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-14.26.07:043][246]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.01-14.26.07:045][246]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.01-14.26.07:060][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.08.01-14.26.07:063][246]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.01-14.26.07:063][246]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2022.08.01-14.26.07:063][246]LogFileHelpers: Loading map 'Minimal_Default' took 0.066
+[2022.08.01-14.26.20:795][193]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.01-14.26.21:580][264]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2022.08.01-14.26.21:607][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
