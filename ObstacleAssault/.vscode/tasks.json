@@ -1,0 +1,707 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "ObstacleAssault Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Test",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Test",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Test",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Shipping",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Shipping",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"Win64",
+				"Shipping",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault HoloLens Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault HoloLens DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault HoloLens Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Test",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Test",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault HoloLens Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Test",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Shipping",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Shipping",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssault HoloLens Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssault HoloLens Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssault",
+				"HoloLens",
+				"Shipping",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssaultEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"Debug",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssaultEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"ObstacleAssaultEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "ObstacleAssaultEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"ObstacleAssaultEditor",
+				"Win64",
+				"Development",
+				"E:\\UnrealProjects\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		}
+	]
+}
