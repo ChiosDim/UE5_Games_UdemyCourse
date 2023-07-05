@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\triggercomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "e:\\unrealprojects\\cryptraider\\source\\cryptraider\\triggercomponent.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
+            "e:\\unrealprojects\\cryptraider\\source\\cryptraider\\mover.h",
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\mover.generated.h",
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\cryptraiderprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\cryptraider\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\development\\cryptraider\\definitions.cryptraider.h",
+            "e:\\unrealprojects\\cryptraider\\source\\cryptraider\\cryptraiderprojectile.h",
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\cryptraiderprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

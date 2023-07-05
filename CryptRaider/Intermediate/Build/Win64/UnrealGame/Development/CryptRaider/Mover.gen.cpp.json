@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\mover.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\cryptraider\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\development\\cryptraider\\definitions.cryptraider.h",
+            "e:\\unrealprojects\\cryptraider\\source\\cryptraider\\mover.h",
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\mover.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

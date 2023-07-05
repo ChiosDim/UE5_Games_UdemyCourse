@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\grabber.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\cryptraider\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\development\\cryptraider\\definitions.cryptraider.h",
+            "e:\\unrealprojects\\cryptraider\\source\\cryptraider\\grabber.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicshandlecomponent.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\physicshandlecomponent.generated.h",
+            "e:\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\grabber.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
