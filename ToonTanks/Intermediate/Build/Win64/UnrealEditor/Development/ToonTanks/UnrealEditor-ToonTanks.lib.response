@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ToonTanks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\OneDrive\Έγγραφα\GitHub\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\user\OneDrive\Έγγραφα\GitHub\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\BasePawn.cpp.obj"
+"C:\Users\user\OneDrive\Έγγραφα\GitHub\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.cpp.obj"
+"C:\Users\user\OneDrive\Έγγραφα\GitHub\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\BasePawn.gen.cpp.obj"
+"C:\Users\user\OneDrive\Έγγραφα\GitHub\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\ToonTanks.init.gen.cpp.obj"
+"C:\Users\user\OneDrive\Έγγραφα\GitHub\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\Default.rc2.res"
+/OUT:"C:\Users\user\OneDrive\Έγγραφα\GitHub\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks.lib"
