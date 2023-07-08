@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToonTanks",
+			"Path": "E:\\Github\\UE5_Games_UdemyCourse\\ToonTanks\\Source\\ToonTanks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToonTanksEditor",
+			"Path": "E:\\Github\\UE5_Games_UdemyCourse\\ToonTanks\\Source\\ToonTanksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

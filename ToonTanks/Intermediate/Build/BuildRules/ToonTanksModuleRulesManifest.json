@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Github\\UE5_Games_UdemyCourse\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"E:\\Github\\UE5_Games_UdemyCourse\\ToonTanks\\Source\\ToonTanks.Target.cs",
+		"E:\\Github\\UE5_Games_UdemyCourse\\ToonTanks\\Source\\ToonTanksEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
