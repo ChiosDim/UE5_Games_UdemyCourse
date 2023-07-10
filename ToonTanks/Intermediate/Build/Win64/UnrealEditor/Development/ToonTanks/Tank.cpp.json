@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\ue5_games_udemycourse\\toontanks\\source\\toontanks\\tank.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\source\\toontanks\\tank.h",
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\source\\toontanks\\basepawn.h",
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h",
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tank.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\springarmcomponent.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
