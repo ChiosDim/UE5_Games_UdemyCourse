@@ -9,7 +9,18 @@
             "e:\\github\\ue5_games_udemycourse\\toontanks\\source\\toontanks\\tower.h",
             "e:\\github\\ue5_games_udemycourse\\toontanks\\source\\toontanks\\basepawn.h",
             "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h",
-            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tower.generated.h"
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tower.generated.h",
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\source\\toontanks\\tank.h",
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tank.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
