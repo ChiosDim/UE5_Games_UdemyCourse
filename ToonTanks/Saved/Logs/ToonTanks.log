@@ -957,3 +957,53 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.12-14.28.47:603][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2023.07.12-14.28.47:609][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
 [2023.07.12-14.28.47:647][432]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.07.12-14.31.30:876][530]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.12-14.31.31:047][530]LogSlate: Took 0.026645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.12-14.32.43:025][775]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.07.12-14.32.43:066][775]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.07.12-14.33.06:256][879]LogLiveCoding: Display:    Creating library E:\Github\UE5_Games_UdemyCourse\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_3.lib and object E:\Github\UE5_Games_UdemyCourse\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_3.exp
+[2023.07.12-14.33.06:674][880]LogClass: /Script/ToonTanks Reload.
+[2023.07.12-14.33.06:675][880]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for reload, assuming new or modified class
+[2023.07.12-14.33.06:741][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.07.12-14.33.06:957][881]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class unchanged
+[2023.07.12-14.33.06:957][881]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.07.12-14.37.54:527][984]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.07.12-14.38.02:769][100]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.102 and deleted 0 file(s) with total size 0 MiB.
+[2023.07.12-14.41.34:981][733]LogLiveCoding: Display:    Creating library E:\Github\UE5_Games_UdemyCourse\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_4.lib and object E:\Github\UE5_Games_UdemyCourse\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_4.exp
+[2023.07.12-14.41.35:175][733]LogClass: /Script/ToonTanks Reload.
+[2023.07.12-14.41.35:175][733]LogClass: Projectile Reload.
+[2023.07.12-14.41.35:175][733]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for reload, assuming new or modified class
+[2023.07.12-14.41.35:181][733]Re-instancing Projectile after reload.
+[2023.07.12-14.41.35:235][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.07.12-14.41.35:314][734]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.07.12-14.41.35:314][734]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.07.12-14.41.48:944][ 45]LogSlate: Took 0.050137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.12-14.41.49:106][ 45]LogSlate: Took 0.033069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.12-14.42.25:378][273]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.12-14.42.32:403][273]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.12-14.42.32:426][273]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.12-14.42.32:437][273]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.12-14.42.32:458][275]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.07.12-14.42.48:588][ 38]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Projectile
+[2023.07.12-14.42.48:703][ 38]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.12-14.42.51:619][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2023.07.12-14.42.51:643][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.12-14.43.14:679][357]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.07.12-14.43.14:679][357]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.031326s
+[2023.07.12-14.43.15:474][357]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000915s (3.338917s overbudget)
+[2023.07.12-14.43.15:828][357]LogViewport: Scene viewport resized to 960x877, mode Windowed.
+[2023.07.12-14.43.50:065][647]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.12-14.43.53:490][833]LogStaticMesh: Display: Building static mesh SM_Projectile...
+[2023.07.12-14.43.53:692][833]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Meshes/SM_Projectile) ...
+[2023.07.12-14.43.54:056][833]LogStaticMesh: Built static mesh [0.34s] /Game/Assets/Meshes/SM_Projectile.SM_Projectile
+[2023.07.12-14.44.02:305][491]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.12-14.44.02:523][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.07.12-14.44.07:766][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Projectile" FILE="../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset" SILENT=true
+[2023.07.12-14.44.07:801][694]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Projectile
+[2023.07.12-14.44.07:801][694]LogSavePackage: Moving '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/BP_Projectile70EE77D14FC2254BFEC8E5831382F18D.tmp' to '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset'
+[2023.07.12-14.44.07:834][694]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.12-14.44.07:838][694]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2023.07.12-14.44.09:873][852]LogSlate: Window 'BP_Projectile' being destroyed
+[2023.07.12-14.44.09:920][852]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.12-14.44.09:920][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.12-14.44.12:133][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
