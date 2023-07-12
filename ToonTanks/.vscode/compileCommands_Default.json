@@ -53,5 +53,15 @@
         "file": "e:\\\\Github\\\\UE5_Games_UdemyCourse\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Projectile.h",
         "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @E:\\Github\\UE5_Games_UdemyCourse\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
         "directory": "E:\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Github\\\\UE5_Games_UdemyCourse\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\HealthComponent.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @E:\\Github\\UE5_Games_UdemyCourse\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+        "directory": "E:\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Github\\\\UE5_Games_UdemyCourse\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\HealthComponent.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @E:\\Github\\UE5_Games_UdemyCourse\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+        "directory": "E:\\UE_5.0\\Engine\\Source"
     }
 ]
