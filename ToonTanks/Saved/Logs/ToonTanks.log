@@ -936,3 +936,31 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.12-20.16.01:401][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.07.12-20.16.01:404][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2023.07.12-20.16.01:445][433]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.07.12-20.33.07:504][419]LogLiveCoding: Display: Starting LiveCoding
+[2023.07.12-20.33.07:504][419]LogLiveCoding: Display: LiveCodingConsole Arguments: ToonTanksEditor Win64 Development
+[2023.07.12-20.34.08:367][419]LogLiveCoding: Display: First instance in process group "UE_ToonTanks_0x499bbaf2", spawning console
+[2023.07.12-20.34.08:367][419]LogLiveCoding: Display: Waiting for server
+[2023.07.12-20.34.08:367][419]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.07.12-20.34.16:995][534]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.07.12-20.38.19:474][520]LogLiveCoding: Display:    Creating library E:\Github\UE5_Games_UdemyCourse\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_0.lib and object E:\Github\UE5_Games_UdemyCourse\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_0.exp
+[2023.07.12-20.38.19:599][520]LogClass: /Script/ToonTanks Reload.
+[2023.07.12-20.38.19:599][520]LogClass: Projectile Reload.
+[2023.07.12-20.38.19:610][520]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for reload, assuming new or modified class
+[2023.07.12-20.38.19:611][520]LogClass: Function OnHit is new or belongs to a modified class.
+[2023.07.12-20.38.19:661][520]Re-instancing Projectile after reload.
+[2023.07.12-20.38.19:864][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.07.12-20.38.20:203][521]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.07.12-20.38.20:203][521]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.07.12-20.40.37:575][999]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_4:PersistentLevel.BP_Projectile_C_0.Projectile Mesh) Not currently registered. Aborting.
+[2023.07.12-20.40.37:575][999]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_2:PersistentLevel.BP_Projectile_C_1.Projectile Mesh) Not currently registered. Aborting.
+[2023.07.12-20.40.44:120][779]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_4:PersistentLevel.BP_Projectile_C_0.Projectile Mesh) Not currently registered. Aborting.
+[2023.07.12-20.40.44:120][779]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_2:PersistentLevel.BP_Projectile_C_1.Projectile Mesh) Not currently registered. Aborting.
+[2023.07.12-20.41.10:087][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Projectile" FILE="../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset" SILENT=true
+[2023.07.12-20.41.10:090][140]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Projectile
+[2023.07.12-20.41.10:091][140]LogSavePackage: Moving '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/BP_ProjectileAAEFA35E455DD26D34E645B89DEA72C0.tmp' to '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset'
+[2023.07.12-20.41.10:116][140]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.12-20.41.10:116][140]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2023.07.12-20.41.11:059][249]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.12-20.41.11:181][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.07.12-20.41.14:739][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.07.12-21.11.53:006][422]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.708 and deleted 0 file(s) with total size 0 MiB.
