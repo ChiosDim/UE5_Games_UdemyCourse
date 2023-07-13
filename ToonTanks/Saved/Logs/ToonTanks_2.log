@@ -859,3 +859,58 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.13-14.35.58:465][326]LogViewport: Scene viewport resized to 1312x902, mode Windowed.
 [2023.07.13-14.39.04:767][659]LogLiveCoding: Display: Console will be hidden but remain running in the background. Restart to disable completely.
 [2023.07.13-14.39.04:772][660]LogLiveCoding: Display: Console will be hidden but remain running in the background. Restart to disable completely.
+[2023.07.13-14.42.24:678][704]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.13-14.42.27:017][876]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.13-14.42.59:317][328]Candidate modules for hot reload:
+[2023.07.13-14.42.59:317][328]  ToonTanks
+[2023.07.13-14.42.59:322][328]Launching UnrealBuildTool... [E:/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,2123 ToonTanksEditor Win64 Development -Project="E:/Github/UE5_Games_UdemyCourse/ToonTanks/ToonTanks.uproject" "E:/Github/UE5_Games_UdemyCourse/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: New page: Compilation - 13 Jul 2023, 20:48:33
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Log file: C:\Users\user\AppData\Local\UnrealBuildTool\Log.txt
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\Github\UE5_Games_UdemyCourse).
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Invalidating makefile for ToonTanksEditor (source file added)
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2023.07.13-14.48.33:701][328]CompilerResultsLog:   Running UnrealHeaderTool "E:\Github\UE5_Games_UdemyCourse\ToonTanks\ToonTanks.uproject" "E:\Github\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 19.2708766 seconds
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Building ToonTanksEditor...
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Using Visual Studio 2022 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [Adaptive Build] Excluded from ToonTanks unity file: ToonTanksGameMode.cpp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2023.07.13-14.48.33:701][328]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2023.07.13-14.48.33:701][328]CompilerResultsLog:   Requested 1.5 GB free memory per action, 3.03 GB available: limiting max parallel actions to 2
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Building 9 actions with 2 processes...
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [1/9] Compile ToonTanksGameMode.gen.cpp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [2/9] Compile ToonTanksGameMode.cpp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [3/9] Compile ToonTanks.init.gen.cpp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [4/9] Compile Projectile.gen.cpp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [5/9] Compile BasePawn.cpp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [6/9] Compile Projectile.cpp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [7/9] Link UnrealEditor-ToonTanks-2123.lib
+[2023.07.13-14.48.33:701][328]CompilerResultsLog:    Creating library E:\Github\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-2123.lib and object E:\Github\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-2123.exp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [8/9] Link UnrealEditor-ToonTanks-2123.dll
+[2023.07.13-14.48.33:701][328]CompilerResultsLog:    Creating library E:\Github\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-2123.suppressed.lib and object E:\Github\UE5_Games_UdemyCourse\ToonTanks\Intermediate\Build\Win64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-2123.suppressed.exp
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: [9/9] WriteMetadata ToonTanksEditor.target
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Total time in Parallel executor: 310.02 seconds
+[2023.07.13-14.48.33:701][328]CompilerResultsLog: Total execution time: 333.70 seconds
+[2023.07.13-14.48.33:716][328]LogMainFrame: MainFrame: Module compiling took 334.643 seconds
+[2023.07.13-14.48.33:819][328]LogClass: /Script/ToonTanks Reload.
+[2023.07.13-14.48.33:819][328]LogClass: Projectile Reload.
+[2023.07.13-14.48.33:882][328]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for reload, assuming new or modified class
+[2023.07.13-14.48.33:886][328]LogClass: Function OnHit is new or belongs to a modified class.
+[2023.07.13-14.48.33:889][328]LogClass: Could not find existing class ToonTanksGameMode in package /Script/ToonTanks for reload, assuming new or modified class
+[2023.07.13-14.48.34:043][328]Re-instancing BasePawn after reload.
+[2023.07.13-14.48.34:224][328]Re-instancing Projectile after reload.
+[2023.07.13-14.48.35:035][328]Display: HotReload took 336.0s.
+[2023.07.13-14.48.35:036][328]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class changed, 4 classes unchanged, 1 function remapped
+[2023.07.13-14.48.35:055][328]Warning: HotReload operation took 336.0s.
+[2023.07.13-14.48.35:259][328]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.07.13-14.48.36:338][329]LogHotReload: New module detected: UnrealEditor-ToonTanks-2123.dll
+[2023.07.13-14.48.36:469][330]LogHotReload: Starting Hot-Reload from IDE
+[2023.07.13-14.48.36:587][330]Display: HotReload took  0.1s.
+[2023.07.13-14.48.36:587][330]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.07.13-14.48.44:337][754]LogSlate: Window 'Content Browser' being destroyed
+[2023.07.13-14.48.44:343][754]LogSlate: Window 'Content Browser' being destroyed
+[2023.07.13-14.49.10:469][973]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.07.13-14.49.16:642][689]LogLiveCoding: Display:    Creating library E:\Github\UE5_Games_UdemyCourse\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_0.lib and object E:\Github\UE5_Games_UdemyCourse\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_0.exp
+[2023.07.13-14.49.17:123][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.07.13-14.49.17:438][695]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged, 1 function remapped
+[2023.07.13-14.49.17:438][695]LogLiveCoding: Display: Live coding succeeded
