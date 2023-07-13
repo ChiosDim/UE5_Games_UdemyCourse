@@ -16,14 +16,21 @@ void ATower::Tick(float DeltaTime)
     }
 }
 
- void ATower::BeginPlay()
- {
+
+void ATower::HandleDestruction()
+{
+	Super::HandleDestruction();
+    Destroy();
+}
+
+void ATower::BeginPlay()
+{
     Super::BeginPlay();
 
     Tank = Cast<ATank>(UGameplayStatics::GetPlayerPawn(this,0));
 
     GetWorldTimerManager().SetTimer(FireRateTimerHandle, this, &ATower::CheckFireCondition, FireRate, true);
- }
+}
 
  void ATower::CheckFireCondition()
  {
