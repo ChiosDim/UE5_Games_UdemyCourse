@@ -26,7 +26,9 @@
             "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h",
             "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tank.generated.h",
             "e:\\github\\ue5_games_udemycourse\\toontanks\\source\\toontanks\\tower.h",
-            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tower.generated.h"
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tower.generated.h",
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\source\\toontanks\\toontanksplayercontroller.h",
+            "e:\\github\\ue5_games_udemycourse\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\toontanksplayercontroller.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
