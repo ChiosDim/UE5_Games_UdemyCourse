@@ -4758,3 +4758,754 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.18-09.46.25:939][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.07.18-09.46.25:969][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
 [2023.07.18-09.46.25:995][683]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.07.18-10.12.37:281][149]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Ακουστικά  (Realtek(R) Audio), InstanceID=1
+[2023.07.18-10.12.37:282][149]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Ακουστικά  (Realtek(R) Audio), InstanceID=1
+[2023.07.18-10.12.37:282][149]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14012
+[2023.07.18-10.12.37:613][149]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8bb147be-761a-4a2f-a29a-8bdf411a8d48}, Name=Τα κουλ ακουστικά του Δημήτρη (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.85
+[2023.07.18-10.12.37:613][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.18-10.12.37:622][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.18-10.13.31:640][311]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.861 and deleted 0 file(s) with total size 0 MiB.
+[2023.07.18-10.37.00:885][514]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Ηχεία (Realtek(R) Audio), InstanceID=1
+[2023.07.18-10.37.00:886][514]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14012
+[2023.07.18-10.37.01:223][514]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9dd103a0-bcfd-4de1-b03f-4786e5430fb6}, Name=Ηχεία (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.22
+[2023.07.18-10.37.01:223][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.18-10.37.01:229][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.18-10.37.13:877][552]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2023.07.18-10.37.13:877][552]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
+[2023.07.18-10.37.18:933][140]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.37.18:933][140]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.37.32:091][582]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.18-10.37.32:091][582]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.18-10.38.09:736][393]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.38.09:736][393]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.38.15:958][598]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.38.15:958][598]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.40.05:612][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2023.07.18-10.40.05:619][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.098
+[2023.07.18-10.40.05:621][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_StartGameWidget] ([2] browsable assets)...
+[2023.07.18-10.40.05:623][ 31]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget]
+[2023.07.18-10.40.05:623][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_StartGameWidget]
+[2023.07.18-10.40.05:630][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/WBP_StartGameWidget_Auto1
+[2023.07.18-10.40.05:630][ 31]LogSavePackage: Moving '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/WBP_StartGameWidget_Auto129F7833C438EBF485454A8B3EC2DD726.tmp' to '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/Autosaves/Game/Blueprints/Widgets/WBP_StartGameWidget_Auto1.uasset'
+[2023.07.18-10.40.05:631][ 31]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.07.18-10.41.41:434][319]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2023.07.18-10.41.41:505][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.07.18-10.41.45:156][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_StartGameWidget" FILE="../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset" SILENT=true
+[2023.07.18-10.41.45:162][748]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_StartGameWidget
+[2023.07.18-10.41.45:162][748]LogSavePackage: Moving '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/WBP_StartGameWidget0241A8D546BD7DAC68A501B8E125657B.tmp' to '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2023.07.18-10.41.45:178][748]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2023.07.18-10.41.45:179][748]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.07.18-10.41.46:350][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.18-10.41.46:356][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-10.41.46:356][886]PIE: New page: PIE session: Main (18 Jul 2023, 16:41:46)
+[2023.07.18-10.41.46:357][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.41.46:362][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005679s)
+[2023.07.18-10.41.46:362][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005759s)
+[2023.07.18-10.41.46:362][886]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.18-10.41.46:363][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-10.41.46:363][886]LogAIModule: Creating AISystem for world Main
+[2023.07.18-10.41.46:363][886]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2023.07.18-10.41.46:458][886]LogUObjectHash: Compacting FUObjectHashTables data took  44.76ms
+[2023.07.18-10.41.46:460][886]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.07.18-10.41.46:460][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-10.41.46:460][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-10.41.46:460][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-10.41.46:460][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-10.41.46:460][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.18-10.41.46:460][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-10.41.46:460][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.18-10.41.46:460][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-10.41.46:461][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-10.41.46:461][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-10.41.46:461][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-10.41.46:463][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-10.41.46:500][886]LogAudioMixer: Display: Using Audio Hardware Device Ηχεία (Realtek(R) Audio)
+[2023.07.18-10.41.46:501][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-10.41.46:501][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-10.41.46:501][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-10.41.46:502][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.07.18-10.41.46:502][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.07.18-10.41.46:503][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.07.18-10.41.46:503][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.07.18-10.41.46:503][886]LogInit: FAudioDevice initialized.
+[2023.07.18-10.41.46:503][886]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2023.07.18-10.41.46:537][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.41.46:552][886]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2023.07.18-10.41.46:554][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.07.18-13.41.46
+[2023.07.18-10.41.46:554][886]LogWorld: Bringing up level for play took: 0.001874
+[2023.07.18-10.41.46:557][886]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.07.18-10.41.46:560][886]PIE: Server logged in
+[2023.07.18-10.41.46:562][886]PIE: Play in editor total start time 0.206 seconds.
+[2023.07.18-10.41.46:572][886]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.07.18-10.41.47:452][972]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:460][973]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:469][974]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:477][975]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:485][976]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:495][977]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:502][978]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:509][979]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:520][980]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:526][981]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:534][982]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:543][983]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:552][984]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:560][985]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:568][986]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:578][987]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:587][988]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:595][989]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:602][990]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:609][991]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:619][992]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:630][993]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:638][994]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:648][995]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:657][996]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:665][997]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:672][998]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:680][999]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:689][  0]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:697][  1]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:705][  2]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:713][  3]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:722][  4]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:730][  5]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:739][  6]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:746][  7]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:755][  8]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:763][  9]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:771][ 10]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:780][ 11]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:790][ 12]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:797][ 13]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:805][ 14]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:813][ 15]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:822][ 16]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:830][ 17]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:838][ 18]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:846][ 19]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:855][ 20]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:863][ 21]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:871][ 22]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:879][ 23]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:889][ 24]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:897][ 25]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:907][ 26]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:913][ 27]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:923][ 28]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:929][ 29]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:938][ 30]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:946][ 31]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:956][ 32]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:963][ 33]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:971][ 34]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:980][ 35]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:989][ 36]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.47:997][ 37]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:005][ 38]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:014][ 39]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:021][ 40]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:030][ 41]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:038][ 42]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:046][ 43]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:055][ 44]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:063][ 45]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:071][ 46]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:081][ 47]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:090][ 48]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:100][ 49]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:109][ 50]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:120][ 51]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:130][ 52]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:138][ 53]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:146][ 54]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:157][ 55]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:164][ 56]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:171][ 57]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:179][ 58]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:189][ 59]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:196][ 60]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:204][ 61]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:213][ 62]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:221][ 63]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:229][ 64]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:237][ 65]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:246][ 66]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:255][ 67]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:262][ 68]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:270][ 69]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:279][ 70]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:288][ 71]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:296][ 72]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:304][ 73]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:312][ 74]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:322][ 75]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:330][ 76]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:338][ 77]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:346][ 78]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:355][ 79]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:362][ 80]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:371][ 81]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:379][ 82]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:388][ 83]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:396][ 84]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:404][ 85]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:412][ 86]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:421][ 87]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:429][ 88]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:437][ 89]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 2
+[2023.07.18-10.41.48:446][ 90]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:456][ 91]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:463][ 92]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:470][ 93]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:479][ 94]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:488][ 95]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:496][ 96]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:504][ 97]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:512][ 98]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:521][ 99]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:529][100]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:537][101]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:545][102]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:554][103]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:564][104]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:571][105]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:580][106]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:591][107]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:598][108]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:606][109]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:614][110]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:623][111]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:630][112]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:640][113]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:647][114]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:657][115]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:664][116]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:672][117]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:681][118]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:690][119]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:697][120]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:705][121]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:713][122]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:722][123]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:730][124]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:739][125]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:747][126]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:756][127]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:764][128]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:772][129]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:780][130]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:789][131]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:797][132]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:806][133]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:814][134]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:824][135]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:831][136]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:839][137]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:848][138]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:856][139]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:864][140]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:872][141]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:880][142]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:889][143]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:897][144]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:905][145]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:914][146]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:924][147]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:930][148]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:939][149]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:947][150]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:959][151]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:965][152]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:974][153]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:981][154]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:991][155]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.48:998][156]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:007][157]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:016][158]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:024][159]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:032][160]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:041][161]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:048][162]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:057][163]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:064][164]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:072][165]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:081][166]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:089][167]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:098][168]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:106][169]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:115][170]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:123][171]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:131][172]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:141][173]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:148][174]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:157][175]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:164][176]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:172][177]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:182][178]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:189][179]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:198][180]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:206][181]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:216][182]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:223][183]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:231][184]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:239][185]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:247][186]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:256][187]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:264][188]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:272][189]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:281][190]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:290][191]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:299][192]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:306][193]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:315][194]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:324][195]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:331][196]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:339][197]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:349][198]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:357][199]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:364][200]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:372][201]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:381][202]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:390][203]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:398][204]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:406][205]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:414][206]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:423][207]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:431][208]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:439][209]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] 1
+[2023.07.18-10.41.49:447][210]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:456][211]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:464][212]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:472][213]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:481][214]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:490][215]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:498][216]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:506][217]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:515][218]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:523][219]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:531][220]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:540][221]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:548][222]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:558][223]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:566][224]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:574][225]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:581][226]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:591][227]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:599][228]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:607][229]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:614][230]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:623][231]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:631][232]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:640][233]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:649][234]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:657][235]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:665][236]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:672][237]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:682][238]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:689][239]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:698][240]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:706][241]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:714][242]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:723][243]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:731][244]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:740][245]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:748][246]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:756][247]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:765][248]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:774][249]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:782][250]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:792][251]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:799][252]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:806][253]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:815][254]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:823][255]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:831][256]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:840][257]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:848][258]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:857][259]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:864][260]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:873][261]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:881][262]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:890][263]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:897][264]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:906][265]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:914][266]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:923][267]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:931][268]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:939][269]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:948][270]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:957][271]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:965][272]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:974][273]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:982][274]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:992][275]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.49:999][276]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:006][277]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:015][278]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:024][279]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:031][280]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:039][281]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:047][282]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:057][283]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:064][284]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:073][285]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:081][286]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:089][287]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:098][288]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:108][289]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:114][290]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:123][291]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:131][292]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:139][293]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:148][294]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:157][295]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:165][296]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:173][297]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:183][298]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:190][299]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:200][300]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:207][301]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:217][302]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:224][303]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:232][304]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:240][305]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:248][306]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:257][307]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:265][308]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:273][309]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:281][310]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:290][311]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:299][312]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:306][313]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:315][314]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:325][315]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:332][316]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:340][317]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:349][318]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:357][319]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:364][320]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:373][321]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:382][322]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:390][323]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:398][324]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:407][325]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:414][326]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:423][327]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:432][328]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:440][329]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Go
+[2023.07.18-10.41.50:450][330]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:457][331]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:465][332]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:473][333]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:481][334]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:491][335]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:498][336]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:507][337]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:516][338]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:524][339]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:532][340]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:540][341]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:548][342]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:557][343]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:566][344]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:573][345]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:582][346]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:591][347]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:604][348]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:610][349]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:620][350]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:628][351]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:635][352]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:644][353]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:653][354]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:661][355]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:669][356]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:678][357]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:687][358]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:695][359]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:704][360]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:713][361]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:721][362]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:727][363]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:736][364]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:744][365]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:754][366]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:763][367]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:769][368]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:778][369]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:788][370]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:796][371]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:802][372]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:811][373]LogBlueprintUserMessages: [WBP_StartGameWidget_C_0] Start Game
+[2023.07.18-10.41.50:856][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.41.50:856][374]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.41.50:857][374]LogSlate: Window 'ToonTanks Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.07.18-10.41.50:871][374]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-10.41.50:872][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.41.50:908][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-10.41.50:919][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.41.50:975][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-10.41.50:975][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.07.18-10.41.50:978][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.07.18-10.41.50:987][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.07.18-10.41.51:002][375]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.07.18-10.45.18:388][498]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2023.07.18-10.45.18:470][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.07.18-10.45.19:165][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_StartGameWidget" FILE="../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset" SILENT=true
+[2023.07.18-10.45.19:172][571]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_StartGameWidget
+[2023.07.18-10.45.19:173][571]LogSavePackage: Moving '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/WBP_StartGameWidgetC7F79A364891DB52C92FB6816679CBB2.tmp' to '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2023.07.18-10.45.19:188][571]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2023.07.18-10.45.19:188][571]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.07.18-10.45.25:094][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.18-10.45.25:099][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-10.45.25:099][ 50]PIE: New page: PIE session: Main (18 Jul 2023, 16:45:25)
+[2023.07.18-10.45.25:099][ 50]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.45.25:105][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005372s)
+[2023.07.18-10.45.25:105][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005443s)
+[2023.07.18-10.45.25:105][ 50]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.18-10.45.25:105][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-10.45.25:105][ 50]LogAIModule: Creating AISystem for world Main
+[2023.07.18-10.45.25:106][ 50]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2023.07.18-10.45.25:153][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.07.18-10.45.25:155][ 50]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.07.18-10.45.25:155][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-10.45.25:155][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-10.45.25:155][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-10.45.25:155][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-10.45.25:155][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.18-10.45.25:155][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-10.45.25:155][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.18-10.45.25:155][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-10.45.25:155][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-10.45.25:155][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-10.45.25:155][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-10.45.25:158][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-10.45.25:191][ 50]LogAudioMixer: Display: Using Audio Hardware Device Ηχεία (Realtek(R) Audio)
+[2023.07.18-10.45.25:191][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-10.45.25:191][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-10.45.25:191][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-10.45.25:192][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.07.18-10.45.25:192][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.07.18-10.45.25:194][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.07.18-10.45.25:194][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.07.18-10.45.25:194][ 50]LogInit: FAudioDevice initialized.
+[2023.07.18-10.45.25:194][ 50]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2023.07.18-10.45.25:237][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.45.25:238][ 50]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2023.07.18-10.45.25:241][ 50]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.07.18-13.45.25
+[2023.07.18-10.45.25:242][ 50]LogWorld: Bringing up level for play took: 0.004247
+[2023.07.18-10.45.25:246][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.07.18-10.45.25:249][ 50]PIE: Server logged in
+[2023.07.18-10.45.25:250][ 50]PIE: Play in editor total start time 0.15 seconds.
+[2023.07.18-10.45.25:258][ 50]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.07.18-10.45.32:145][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.45.32:145][864]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.45.32:145][864]LogSlate: Window 'ToonTanks Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.07.18-10.45.32:151][864]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-10.45.32:151][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.45.32:164][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-10.45.32:170][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.45.32:217][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-10.45.32:217][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.07.18-10.45.32:219][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.07.18-10.45.32:226][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.07.18-10.45.32:240][865]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.07.18-10.45.41:484][951]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.45.41:484][951]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.46.00:167][151]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2023.07.18-10.46.00:232][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.07.18-10.46.00:891][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_StartGameWidget" FILE="../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset" SILENT=true
+[2023.07.18-10.46.00:898][211]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_StartGameWidget
+[2023.07.18-10.46.00:898][211]LogSavePackage: Moving '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/WBP_StartGameWidgetD5E0DA5F48AB3C876D562ABF181DD471.tmp' to '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2023.07.18-10.46.00:915][211]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2023.07.18-10.46.00:915][211]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.07.18-10.46.02:638][406]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.18-10.46.02:645][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-10.46.02:645][406]PIE: New page: PIE session: Main (18 Jul 2023, 16:46:02)
+[2023.07.18-10.46.02:645][406]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.46.02:650][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005511s)
+[2023.07.18-10.46.02:650][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005611s)
+[2023.07.18-10.46.02:650][406]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.18-10.46.02:651][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-10.46.02:651][406]LogAIModule: Creating AISystem for world Main
+[2023.07.18-10.46.02:652][406]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2023.07.18-10.46.02:702][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.07.18-10.46.02:703][406]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.07.18-10.46.02:703][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-10.46.02:703][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-10.46.02:703][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-10.46.02:703][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-10.46.02:703][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.18-10.46.02:703][406]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-10.46.02:703][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.18-10.46.02:703][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-10.46.02:704][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-10.46.02:704][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-10.46.02:704][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-10.46.02:706][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-10.46.02:739][406]LogAudioMixer: Display: Using Audio Hardware Device Ηχεία (Realtek(R) Audio)
+[2023.07.18-10.46.02:739][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-10.46.02:739][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-10.46.02:739][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-10.46.02:740][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.07.18-10.46.02:740][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.07.18-10.46.02:742][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.07.18-10.46.02:742][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.07.18-10.46.02:742][406]LogInit: FAudioDevice initialized.
+[2023.07.18-10.46.02:742][406]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2023.07.18-10.46.02:773][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.46.02:774][406]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2023.07.18-10.46.02:776][406]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.07.18-13.46.02
+[2023.07.18-10.46.02:777][406]LogWorld: Bringing up level for play took: 0.003122
+[2023.07.18-10.46.02:779][406]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.07.18-10.46.02:784][406]PIE: Server logged in
+[2023.07.18-10.46.02:785][406]PIE: Play in editor total start time 0.141 seconds.
+[2023.07.18-10.46.02:796][406]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.07.18-10.46.06:455][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.46.06:455][781]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.46.06:455][781]LogSlate: Window 'ToonTanks Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.07.18-10.46.06:462][781]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-10.46.06:462][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.46.06:473][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-10.46.06:478][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.46.06:522][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-10.46.06:522][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.07.18-10.46.06:523][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.07.18-10.46.06:588][781]LogUObjectHash: Compacting FUObjectHashTables data took  44.55ms
+[2023.07.18-10.46.06:604][782]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.07.18-10.46.18:952][202]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.18-10.46.31:525][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.18-10.46.31:531][695]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.18-10.46.31:533][695]LogPlayLevel: [PlayLevel] Compiling WBP_StartGameWidget before play...
+[2023.07.18-10.46.31:678][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.07.18-10.46.31:679][695]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (1 blueprints)
+[2023.07.18-10.46.31:679][695]PIE: New page: PIE session: Main (18 Jul 2023, 16:46:31)
+[2023.07.18-10.46.31:679][695]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.46.31:684][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005010s)
+[2023.07.18-10.46.31:684][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005086s)
+[2023.07.18-10.46.31:684][695]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.18-10.46.31:684][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-10.46.31:685][695]LogAIModule: Creating AISystem for world Main
+[2023.07.18-10.46.31:685][695]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2023.07.18-10.46.31:735][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.07.18-10.46.31:735][695]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.07.18-10.46.31:736][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-10.46.31:736][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-10.46.31:736][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-10.46.31:736][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-10.46.31:736][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.18-10.46.31:736][695]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-10.46.31:736][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.18-10.46.31:736][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-10.46.31:736][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-10.46.31:736][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-10.46.31:736][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-10.46.31:738][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-10.46.31:775][695]LogAudioMixer: Display: Using Audio Hardware Device Ηχεία (Realtek(R) Audio)
+[2023.07.18-10.46.31:775][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-10.46.31:775][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-10.46.31:775][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-10.46.31:777][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.07.18-10.46.31:777][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.07.18-10.46.31:778][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.07.18-10.46.31:778][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.07.18-10.46.31:778][695]LogInit: FAudioDevice initialized.
+[2023.07.18-10.46.31:778][695]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.07.18-10.46.31:800][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.46.31:800][695]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2023.07.18-10.46.31:802][695]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.07.18-13.46.31
+[2023.07.18-10.46.31:803][695]LogWorld: Bringing up level for play took: 0.002468
+[2023.07.18-10.46.31:805][695]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.07.18-10.46.31:808][695]PIE: Server logged in
+[2023.07.18-10.46.31:810][695]PIE: Play in editor total start time 0.279 seconds.
+[2023.07.18-10.46.31:864][695]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.07.18-10.46.36:729][206]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-10.46.36:729][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.46.36:757][206]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-10.46.36:757][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.46.38:865][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.46.38:865][442]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.46.38:865][442]LogSlate: Window 'ToonTanks Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.07.18-10.46.38:869][442]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-10.46.38:869][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.46.38:880][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-10.46.38:886][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.46.39:023][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.07.18-10.46.39:025][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.07.18-10.46.39:082][442]LogUObjectHash: Compacting FUObjectHashTables data took  36.59ms
+[2023.07.18-10.46.39:102][443]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.07.18-10.46.42:970][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.07.18-10.46.45:526][886]LogSlate: Window 'Save Content' being destroyed
+[2023.07.18-10.46.50:812][500]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.07.18-10.46.50:812][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-10.46.50:814][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-10.46.51:208][500]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.46.51:208][500]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-10.46.52:549][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_StartGameWidget" FILE="../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset" SILENT=true
+[2023.07.18-10.46.52:555][649]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_StartGameWidget
+[2023.07.18-10.46.52:555][649]LogSavePackage: Moving '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/WBP_StartGameWidgetB46C58904AA82554D93B11A4F371CB16.tmp' to '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2023.07.18-10.46.52:572][649]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2023.07.18-10.46.52:572][649]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.07.18-10.47.29:485][  4]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2023.07.18-10.47.29:565][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.07.18-10.47.30:013][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_StartGameWidget" FILE="../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset" SILENT=true
+[2023.07.18-10.47.30:019][ 48]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_StartGameWidget
+[2023.07.18-10.47.30:020][ 48]LogSavePackage: Moving '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Saved/WBP_StartGameWidget52A1815848A9A64FE79B35A34E9A3168.tmp' to '../../../../Github/UE5_Games_UdemyCourse/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2023.07.18-10.47.30:036][ 48]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2023.07.18-10.47.30:037][ 48]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.07.18-10.47.31:547][226]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.18-10.47.31:553][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-10.47.31:553][226]PIE: New page: PIE session: Main (18 Jul 2023, 16:47:31)
+[2023.07.18-10.47.31:553][226]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.47.31:558][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004956s)
+[2023.07.18-10.47.31:558][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005035s)
+[2023.07.18-10.47.31:558][226]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.18-10.47.31:558][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-10.47.31:559][226]LogAIModule: Creating AISystem for world Main
+[2023.07.18-10.47.31:559][226]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2023.07.18-10.47.31:607][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.07.18-10.47.31:608][226]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.07.18-10.47.31:608][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-10.47.31:608][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-10.47.31:608][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-10.47.31:608][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-10.47.31:608][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.18-10.47.31:608][226]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-10.47.31:608][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.18-10.47.31:608][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-10.47.31:609][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-10.47.31:609][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-10.47.31:609][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-10.47.31:610][226]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-10.47.31:646][226]LogAudioMixer: Display: Using Audio Hardware Device Ηχεία (Realtek(R) Audio)
+[2023.07.18-10.47.31:647][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-10.47.31:647][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-10.47.31:647][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-10.47.31:647][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.07.18-10.47.31:647][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.07.18-10.47.31:649][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.07.18-10.47.31:649][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.07.18-10.47.31:649][226]LogInit: FAudioDevice initialized.
+[2023.07.18-10.47.31:649][226]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2023.07.18-10.47.31:670][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.47.31:670][226]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2023.07.18-10.47.31:672][226]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.07.18-13.47.31
+[2023.07.18-10.47.31:672][226]LogWorld: Bringing up level for play took: 0.001645
+[2023.07.18-10.47.31:674][226]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.07.18-10.47.31:677][226]PIE: Server logged in
+[2023.07.18-10.47.31:678][226]PIE: Play in editor total start time 0.125 seconds.
+[2023.07.18-10.47.31:687][226]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.07.18-10.47.36:566][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-10.47.36:566][775]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.07.18-10.47.36:566][775]LogSlate: Window 'ToonTanks Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.07.18-10.47.36:570][775]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-10.47.36:570][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.47.36:580][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-10.47.36:586][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-10.47.36:629][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-10.47.36:629][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.07.18-10.47.36:630][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.07.18-10.47.36:646][775]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2023.07.18-10.47.36:660][776]LogPlayLevel: Display: Destroying online subsystem :Context_15
