@@ -1,4 +1,4 @@
-﻿Log file open, 07/20/23 01:14:43
+﻿Log file open, 07/20/23 12:27:48
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -31,10 +31,10 @@ LogIoDispatcher: Display: Mounting container '../../../ToonTanks/Content/Paks/To
 LogPakFile: Display: Mounted IoStore container "../../../ToonTanks/Content/Paks/ToonTanks-Windows.utoc"
 LogPakFile: Display: Mounted Pak file '../../../ToonTanks/Content/Paks/ToonTanks-Windows.pak', mount point: '../../../'
 LogPlatformFile: Not using cached read wrapper
-LogStats: Stats thread started at 0.145105
+LogStats: Stats thread started at 0.171629
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-E8F9136542B1E90C6F6EB3A0D96D289A
+         Session CrashGUID >   UECC-Windows-A6808F9A4F236C7708D029BDF038F775
          Session CrashGUID >====================================================
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin AISupport
@@ -223,266 +223,420 @@ LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable crea
 LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
 LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
-[2023.07.19-22.14.44:090][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
-[2023.07.19-22.14.44:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
-[2023.07.19-22.14.44:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
-[2023.07.19-22.14.44:091][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
-[2023.07.19-22.14.44:091][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
-[2023.07.19-22.14.44:091][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
-[2023.07.19-22.14.44:091][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
-[2023.07.19-22.14.44:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
-[2023.07.19-22.14.44:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
-[2023.07.19-22.14.44:091][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
-[2023.07.19-22.14.44:091][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
-[2023.07.19-22.14.44:123][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
-[2023.07.19-22.14.44:261][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI: D3D11 adapters:
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     VendorId    : 10de
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     DeviceId    : 1f82
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     SubSysId    : 3fcb1458
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     Revision    : 00a1
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     SharedSystemMemory : 8554733568 bytes
-[2023.07.19-22.14.44:264][  0]LogD3D11RHI:     AdapterLuid : 0 52491
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_1)
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:       3949/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     VendorId    : 1414
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     DeviceId    : 008c
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     SubSysId    : 0000
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     Revision    : 0000
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     SharedSystemMemory : 8554733568 bytes
-[2023.07.19-22.14.44:425][  0]LogD3D11RHI:     AdapterLuid : 0 57666
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI: Chosen D3D11 Adapter:
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     VendorId    : 10de
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     DeviceId    : 1f82
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     SubSysId    : 3fcb1458
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     Revision    : 00a1
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     SharedSystemMemory : 8554733568 bytes
-[2023.07.19-22.14.44:428][  0]LogD3D11RHI:     AdapterLuid : 0 52491
-[2023.07.19-22.14.44:428][  0]LogInit: Selected Device Profile: [Windows]
-[2023.07.19-22.14.44:428][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [Windows]
-[2023.07.19-22.14.44:428][  0]LogHAL: Display: Platform has ~ 16 GB [17109467136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2023.07.19-22.14.44:428][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
-[2023.07.19-22.14.44:429][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2023.07.19-22.14.44:429][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-[2023.07.19-22.14.44:429][  0]LogInit: Computer: DIMITRIS
-[2023.07.19-22.14.44:429][  0]LogInit: User: Dimitris
-[2023.07.19-22.14.44:429][  0]LogInit: CPU Page size=4096, Cores=6
-[2023.07.19-22.14.44:429][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2023.07.19-22.14.44:429][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2023.07.19-22.14.44:429][  0]LogMemory: Platform Memory Stats for Windows
-[2023.07.19-22.14.44:429][  0]LogMemory: Process Physical Memory: 137.67 MB used, 146.64 MB peak
-[2023.07.19-22.14.44:429][  0]LogMemory: Process Virtual Memory: 123.21 MB used, 123.21 MB peak
-[2023.07.19-22.14.44:429][  0]LogMemory: Physical Memory: 13514.55 MB used,  2802.30 MB free, 16316.86 MB total
-[2023.07.19-22.14.44:429][  0]LogMemory: Virtual Memory: 17875.90 MB used,  5352.96 MB free, 23228.86 MB total
-[2023.07.19-22.14.44:429][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
-[2023.07.19-22.14.44:438][  0]LogWindows: WindowsPlatformFeatures enabled
-[2023.07.19-22.14.44:438][  0]LogInit: Physics initialised using underlying interface: Chaos
-[2023.07.19-22.14.44:438][  0]LogInit: Using OS detected language (en-US).
-[2023.07.19-22.14.44:438][  0]LogInit: Using OS detected locale (en-GB).
-[2023.07.19-22.14.44:439][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
-[2023.07.19-22.14.44:470][  0]LogWindowsTextInputMethodSystem: Available input methods:
-[2023.07.19-22.14.44:470][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
-[2023.07.19-22.14.44:470][  0]LogWindowsTextInputMethodSystem:   - Greek (Greece) - (Keyboard).
-[2023.07.19-22.14.44:470][  0]LogWindowsTextInputMethodSystem: Activated input method: Greek (Greece) - (Keyboard).
-[2023.07.19-22.14.44:510][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2023.07.19-22.14.44:510][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2023.07.19-22.14.44:551][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2023.07.19-22.14.44:551][  0]LogD3D11RHI:     GPU DeviceId: 0x1f82 (for the marketing name, search the web for "GPU Device Id")
-[2023.07.19-22.14.44:551][  0]LogWindows: Attached monitors:
-[2023.07.19-22.14.44:551][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
-[2023.07.19-22.14.44:551][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY2'
-[2023.07.19-22.14.44:551][  0]LogWindows: Found 2 attached monitors.
-[2023.07.19-22.14.44:551][  0]LogWindows: EnumDisplayDevices:
-[2023.07.19-22.14.44:551][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650' (P:1 D:1), name: '\\.\DISPLAY1'
-[2023.07.19-22.14.44:551][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650' (P:0 D:1), name: '\\.\DISPLAY2'
-[2023.07.19-22.14.44:551][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY3'
-[2023.07.19-22.14.44:552][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY4'
-[2023.07.19-22.14.44:552][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:   Driver Version: 531.79 (internal:31.0.15.3179, unified:531.79)
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:      Driver Date: 4-25-2023
-[2023.07.19-22.14.44:552][  0]LogRHI: Texture pool is 2764 MB (70% of 3949 MB)
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI: Creating D3DDevice using adapter:
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     VendorId    : 10de
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     DeviceId    : 1f82
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     SubSysId    : 3fcb1458
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     Revision    : 00a1
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     SharedSystemMemory : 8554733568 bytes
-[2023.07.19-22.14.44:552][  0]LogD3D11RHI:     AdapterLuid : 0 52491
-[2023.07.19-22.14.44:649][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2023.07.19-22.14.44:649][  0]LogD3D11RHI: Async texture creation enabled
-[2023.07.19-22.14.44:649][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
-[2023.07.19-22.14.44:649][  0]LogD3D11RHI: Array index from any shader is supported
-[2023.07.19-22.14.44:676][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2023.07.19-22.14.44:676][  0]LogRHI: GeForceNow SDK initialized: 0
-[2023.07.19-22.14.44:681][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2023.07.19-22.14.44:682][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library Global. Total 4119 unique shaders.
-[2023.07.19-22.14.44:682][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
-[2023.07.19-22.14.44:682][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
-[2023.07.19-22.14.44:684][  0]LogTemp: Display: Clearing the OS Cache
-[2023.07.19-22.14.44:696][  0]LogSlate: Using FreeType 2.10.0
-[2023.07.19-22.14.44:697][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2023.07.19-22.14.46:053][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library ToonTanks. Total 1498 unique shaders.
-[2023.07.19-22.14.46:053][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library ToonTanks
-[2023.07.19-22.14.46:053][  0]LogShaderLibrary: Display: Logical shader library 'ToonTanks' has been created, components 1
-[2023.07.19-22.14.46:054][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
-[2023.07.19-22.14.46:059][  0]LogRHI: Display: Failed to open default shader pipeline cache for ToonTanks using shader platform 0.
-[2023.07.19-22.14.46:090][  0]LogInit: Using OS detected language (en-US).
-[2023.07.19-22.14.46:090][  0]LogInit: Using OS detected locale (en-GB).
-[2023.07.19-22.14.46:090][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
-[2023.07.19-22.14.46:090][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
-[2023.07.19-22.14.46:122][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
-[2023.07.19-22.14.46:122][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
-[2023.07.19-22.14.46:386][  0]LogAssetRegistry: FAssetRegistry took 0.1079 seconds to start up
-[2023.07.19-22.14.52:949][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
-[2023.07.19-22.14.53:399][  0]LogInit: Selected Device Profile: [Windows]
-[2023.07.19-22.14.53:483][  0]LogDeviceProfileManager: Active device profile: [000001F45C942E00][000001F447CD9D90 50] Windows
-[2023.07.19-22.14.53:484][  0]LogDeviceProfileManager: Profiles: [000001F45C942E00][000001F447CD9D90 50] Windows, 
-[2023.07.19-22.14.53:484][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="Windows"
-[2023.07.19-22.14.55:970][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 599592867)
-[2023.07.19-22.15.01:059][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2023.07.19-22.15.01:059][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2023.07.19-22.15.02:240][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.032446 seconds
-[2023.07.19-22.15.04:437][  0]LogMoviePlayer: Initializing movie player
-[2023.07.19-22.15.04:832][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D4CAA55D4BBC8134A638A28EAA8E17A5 | Instance: 5117A24640DF291C93353C9012C98659 (DIMITRIS-18316).
-[2023.07.19-22.15.05:349][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2023.07.19-22.15.05:541][  0]LogUObjectArray: 17462 objects as part of root set at end of initial load.
-[2023.07.19-22.15.05:597][  0]LogUObjectArray: 4 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
-[2023.07.19-22.15.05:597][  0]LogUObjectAllocator: 3837504 out of 0 bytes used by permanent object pool.
-[2023.07.19-22.15.05:600][  0]LogUObjectArray: CloseDisregardForGC: 17462/17462 objects in disregard for GC pool
-[2023.07.19-22.15.05:674][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: true, IsInitialLoad: false
-[2023.07.19-22.15.06:014][  0]LogStreaming: Display: AsyncLoading2 - InitialLoad Finalized: 17186 script object entries in 471.18 KB
-[2023.07.19-22.15.06:014][  0]LogEngine: Initializing Engine...
-[2023.07.19-22.15.06:216][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
-[2023.07.19-22.15.06:513][  0]LogInit: Initializing FReadOnlyCVARCache
-[2023.07.19-22.15.06:519][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2023.07.19-22.15.06:615][  0]LogAudio: Display: Loading Default Audio Settings Objects...
-[2023.07.19-22.15.06:642][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
-[2023.07.19-22.15.06:642][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
-[2023.07.19-22.15.06:673][  0]LogAudio: Display: Audio Device Manager Initialized
-[2023.07.19-22.15.06:673][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2023.07.19-22.15.06:696][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2023.07.19-22.15.06:696][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2023.07.19-22.15.06:698][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2023.07.19-22.15.06:698][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2023.07.19-22.15.06:698][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2023.07.19-22.15.06:698][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
-[2023.07.19-22.15.06:698][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2023.07.19-22.15.06:729][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2023.07.19-22.15.06:732][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
-[2023.07.19-22.15.06:732][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
-[2023.07.19-22.15.06:733][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
-[2023.07.19-22.15.07:121][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2023.07.19-22.15.07:121][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
-[2023.07.19-22.15.07:188][  0]LogAudioMixer: Display: Using Audio Hardware Device Ηχεία (Realtek(R) Audio)
-[2023.07.19-22.15.07:322][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2023.07.19-22.15.07:322][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2023.07.19-22.15.07:323][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2023.07.19-22.15.07:376][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
-[2023.07.19-22.15.07:386][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
-[2023.07.19-22.15.07:537][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
-[2023.07.19-22.15.07:537][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
-[2023.07.19-22.15.07:537][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
-[2023.07.19-22.15.07:537][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
-[2023.07.19-22.15.07:537][  0]LogInit: FAudioDevice initialized.
-[2023.07.19-22.15.08:125][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2023.07.19-22.15.08:125][  0]LogInit: Texture streaming: Enabled
-[2023.07.19-22.15.08:919][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
-[2023.07.19-22.15.09:587][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2023.07.19-22.15.10:785][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2023.07.19-22.15.10:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2023.07.19-22.15.11:010][  0]LogInit: Display: Game Engine Initialized.
-[2023.07.19-22.15.11:086][  0]LogInit: Display: Starting Game.
-[2023.07.19-22.15.11:092][  0]LogNet: Browse: /Game/Maps/Main?Name=Player
-[2023.07.19-22.15.11:113][  0]LogLoad: LoadMap: /Game/Maps/Main?Name=Player
-[2023.07.19-22.15.11:113][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
-[2023.07.19-22.15.11:138][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2023.07.19-22.15.11:253][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2023.07.19-22.15.11:936][  0]LogStreaming: Display: 0.008 ms (0.003+0.005) ms for processing 27/27 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/1 (73->73 tracked) packages and 0/26 (76->76 tracked) public exports.
-[2023.07.19-22.15.11:940][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2023.07.19-22.15.12:510][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
-[2023.07.19-22.15.12:854][  0]LogTaskGraph: Warning: Task graph took 319.41ms for RT to recieve broadcast.
-[2023.07.19-22.15.12:854][  0]LogTaskGraph: Warning: Task graph took 330.98ms for RT to recieve broadcast and do processing.
-[2023.07.19-22.15.13:196][  0]LogWindows: Windows GetLastError: The operation completed successfully. (0)
-[2023.07.19-22.15.35:868][  0]LogWindows: Could not start crash report client using ../../../Engine/Binaries/Win64/CrashReportClient-Win64-Debug.exe
-[2023.07.19-22.15.35:868][  0]LogMemory: Platform Memory Stats for Windows
-[2023.07.19-22.15.35:868][  0]LogMemory: Process Physical Memory: 330.70 MB used, 333.23 MB peak
-[2023.07.19-22.15.35:868][  0]LogMemory: Process Virtual Memory: 425.16 MB used, 425.82 MB peak
-[2023.07.19-22.15.35:868][  0]LogMemory: Physical Memory: 12520.86 MB used,  3796.00 MB free, 16316.86 MB total
-[2023.07.19-22.15.35:868][  0]LogMemory: Virtual Memory: 16452.03 MB used,  6776.83 MB free, 23228.86 MB total
-[2023.07.19-22.15.35:868][  0]Message dialog closed, result: Ok, title: The UE5-ToonTanks Game has crashed and will close, text: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading2.cpp] [Line: 1245] 
-ObjectSerializationError: /Game/Maps/Main (0xF9625725C96E9F48) /Game/Maps/Main (0xF9625725C96E9F48) - BasePawn /Game/Maps/Main.Main:PersistentLevel.BasePawn_1: Bad name index 5633/56.
-
-
-
-
-
-[2023.07.19-22.15.35:868][  0]LogThreadingWindows: Error: Runnable thread FAsyncLoadingThread crashed.
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: === Critical error: ===
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: 
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading2.cpp] [Line: 1245] 
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: ObjectSerializationError: /Game/Maps/Main (0xF9625725C96E9F48) /Game/Maps/Main (0xF9625725C96E9F48) - BasePawn /Game/Maps/Main.Main:PersistentLevel.BasePawn_1: Bad name index 5633/56.
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: 
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: 
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: 
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: 
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff66884bd07 ToonTanks.exe!FExportArchive::HandleBadNameIndex() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff66880c787 ToonTanks.exe!FExportArchive::operator<<() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff668930ea8 ToonTanks.exe!SerializeUnversionedProperties() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff668a31b52 ToonTanks.exe!UObject::SerializeScriptProperties() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff668a31881 ToonTanks.exe!UObject::Serialize() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff668a316f0 ToonTanks.exe!UObject::Serialize() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff66cbc0864 ToonTanks.exe!AActor::Serialize() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff668831660 ToonTanks.exe!FAsyncPackage2::EventDrivenSerializeExport() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff6688389f0 ToonTanks.exe!FAsyncPackage2::Event_ProcessExportBundle() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff66883c623 ToonTanks.exe!FEventLoadNode2::Execute() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff668856326 ToonTanks.exe!FAsyncLoadEventQueue2::PopAndExecute() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff6688755e4 ToonTanks.exe!FAsyncLoadingThread2::Run() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff668751b6b ToonTanks.exe!FRunnableThreadWin::Run() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ff66874a7e0 ToonTanks.exe!FRunnableThreadWin::GuardedRun() []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ffd435a7614 KERNEL32.DLL!UnknownFunction []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: [Callstack] 0x00007ffd447226b1 ntdll.dll!UnknownFunction []
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: 
-[2023.07.19-22.15.35:868][  0]LogWindows: Error: Crash in runnable thread FAsyncLoadingThread
-[2023.07.19-22.15.35:871][  0]LogExit: Executing StaticShutdownAfterError
-[2023.07.19-22.15.35:871][  0]LogWindows: FPlatformMisc::RequestExit(1)
-[2023.07.19-22.15.35:871][  0]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
-[2023.07.19-22.15.35:871][  0]LogCore: Engine exit requested (reason: Win RequestExit)
-[2023.07.19-22.15.35:911][  0]Log file closed, 07/20/23 01:15:35
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.07.20-09.27.48:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.07.20-09.27.48:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.07.20-09.27.48:278][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.07.20-09.27.48:313][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.07.20-09.27.48:509][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI: D3D11 adapters:
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     DeviceId    : 1f82
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     SubSysId    : 3fcb1458
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     SharedSystemMemory : 8554733568 bytes
+[2023.07.20-09.27.48:512][  0]LogD3D11RHI:     AdapterLuid : 0 52491
+[2023.07.20-09.27.49:143][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_1)
+[2023.07.20-09.27.49:143][  0]LogD3D11RHI:       3949/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     Revision    : 0000
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     SharedSystemMemory : 8554733568 bytes
+[2023.07.20-09.27.49:144][  0]LogD3D11RHI:     AdapterLuid : 0 57666
+[2023.07.20-09.27.49:148][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.07.20-09.27.49:148][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     DeviceId    : 1f82
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     SubSysId    : 3fcb1458
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     SharedSystemMemory : 8554733568 bytes
+[2023.07.20-09.27.49:149][  0]LogD3D11RHI:     AdapterLuid : 0 52491
+[2023.07.20-09.27.49:149][  0]LogInit: Selected Device Profile: [Windows]
+[2023.07.20-09.27.49:149][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.07.20-09.27.49:149][  0]LogHAL: Display: Platform has ~ 16 GB [17109467136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.20-09.27.49:149][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.07.20-09.27.49:149][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.20-09.27.49:149][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.07.20-09.27.49:149][  0]LogInit: Computer: DIMITRIS
+[2023.07.20-09.27.49:149][  0]LogInit: User: Dimitris
+[2023.07.20-09.27.49:149][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.07.20-09.27.49:149][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.07.20-09.27.49:149][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.07.20-09.27.49:149][  0]LogMemory: Platform Memory Stats for Windows
+[2023.07.20-09.27.49:149][  0]LogMemory: Process Physical Memory: 136.93 MB used, 145.88 MB peak
+[2023.07.20-09.27.49:149][  0]LogMemory: Process Virtual Memory: 122.82 MB used, 122.82 MB peak
+[2023.07.20-09.27.49:149][  0]LogMemory: Physical Memory: 7232.57 MB used,  9084.29 MB free, 16316.86 MB total
+[2023.07.20-09.27.49:149][  0]LogMemory: Virtual Memory: 11313.73 MB used,  11915.13 MB free, 23228.86 MB total
+[2023.07.20-09.27.49:149][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.07.20-09.27.49:163][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.20-09.27.49:163][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.07.20-09.27.49:163][  0]LogInit: Using OS detected language (en-US).
+[2023.07.20-09.27.49:163][  0]LogInit: Using OS detected locale (en-GB).
+[2023.07.20-09.27.49:164][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.07.20-09.27.49:194][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.07.20-09.27.49:194][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.07.20-09.27.49:194][  0]LogWindowsTextInputMethodSystem:   - Greek (Greece) - (Keyboard).
+[2023.07.20-09.27.49:194][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.20-09.27.49:242][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.20-09.27.49:242][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.20-09.27.49:298][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.07.20-09.27.49:298][  0]LogD3D11RHI:     GPU DeviceId: 0x1f82 (for the marketing name, search the web for "GPU Device Id")
+[2023.07.20-09.27.49:298][  0]LogWindows: Attached monitors:
+[2023.07.20-09.27.49:298][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.07.20-09.27.49:298][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY2'
+[2023.07.20-09.27.49:298][  0]LogWindows: Found 2 attached monitors.
+[2023.07.20-09.27.49:298][  0]LogWindows: EnumDisplayDevices:
+[2023.07.20-09.27.49:298][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.07.20-09.27.49:298][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.07.20-09.27.49:298][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.07.20-09.27.49:298][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.07.20-09.27.49:300][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:   Driver Version: 531.79 (internal:31.0.15.3179, unified:531.79)
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:      Driver Date: 4-25-2023
+[2023.07.20-09.27.49:300][  0]LogRHI: Texture pool is 2764 MB (70% of 3949 MB)
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     DeviceId    : 1f82
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     SubSysId    : 3fcb1458
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     SharedSystemMemory : 8554733568 bytes
+[2023.07.20-09.27.49:300][  0]LogD3D11RHI:     AdapterLuid : 0 52491
+[2023.07.20-09.27.49:396][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.07.20-09.27.49:396][  0]LogD3D11RHI: Async texture creation enabled
+[2023.07.20-09.27.49:396][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.07.20-09.27.49:396][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.07.20-09.27.49:423][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.07.20-09.27.49:423][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.07.20-09.27.49:427][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.07.20-09.27.49:428][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library Global. Total 4119 unique shaders.
+[2023.07.20-09.27.49:428][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2023.07.20-09.27.49:428][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2023.07.20-09.27.49:431][  0]LogTemp: Display: Clearing the OS Cache
+[2023.07.20-09.27.49:441][  0]LogSlate: Using FreeType 2.10.0
+[2023.07.20-09.27.49:441][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.20-09.27.49:913][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library ToonTanks. Total 1498 unique shaders.
+[2023.07.20-09.27.49:913][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library ToonTanks
+[2023.07.20-09.27.49:913][  0]LogShaderLibrary: Display: Logical shader library 'ToonTanks' has been created, components 1
+[2023.07.20-09.27.49:914][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2023.07.20-09.27.49:920][  0]LogRHI: Display: Failed to open default shader pipeline cache for ToonTanks using shader platform 0.
+[2023.07.20-09.27.49:920][  0]LogInit: Using OS detected language (en-US).
+[2023.07.20-09.27.49:920][  0]LogInit: Using OS detected locale (en-GB).
+[2023.07.20-09.27.49:920][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.07.20-09.27.49:920][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2023.07.20-09.27.49:933][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.07.20-09.27.49:933][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.07.20-09.27.50:019][  0]LogAssetRegistry: FAssetRegistry took 0.0677 seconds to start up
+[2023.07.20-09.27.51:336][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.07.20-09.27.51:437][  0]LogInit: Selected Device Profile: [Windows]
+[2023.07.20-09.27.51:458][  0]LogDeviceProfileManager: Active device profile: [000001782DF6EC80][00000178196A9D90 50] Windows
+[2023.07.20-09.27.51:458][  0]LogDeviceProfileManager: Profiles: [000001782DF6EC80][00000178196A9D90 50] Windows, 
+[2023.07.20-09.27.51:458][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="Windows"
+[2023.07.20-09.27.51:855][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 599592867)
+[2023.07.20-09.27.52:626][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.20-09.27.52:626][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.20-09.27.52:923][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.003848 seconds
+[2023.07.20-09.27.53:282][  0]LogMoviePlayer: Initializing movie player
+[2023.07.20-09.27.53:325][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 25ED3A9F4F5AE0DB84B1709F1A2296F8 | Instance: F3E398C1443CB5C33C3CBC96598B84DF (DIMITRIS-704).
+[2023.07.20-09.27.53:430][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.20-09.27.53:462][  0]LogUObjectArray: 17462 objects as part of root set at end of initial load.
+[2023.07.20-09.27.53:468][  0]LogUObjectArray: 4 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2023.07.20-09.27.53:468][  0]LogUObjectAllocator: 3837504 out of 0 bytes used by permanent object pool.
+[2023.07.20-09.27.53:469][  0]LogUObjectArray: CloseDisregardForGC: 17462/17462 objects in disregard for GC pool
+[2023.07.20-09.27.53:515][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: true, IsInitialLoad: false
+[2023.07.20-09.27.53:573][  0]LogStreaming: Display: AsyncLoading2 - InitialLoad Finalized: 17186 script object entries in 471.18 KB
+[2023.07.20-09.27.53:573][  0]LogEngine: Initializing Engine...
+[2023.07.20-09.27.53:605][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2023.07.20-09.27.53:670][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.20-09.27.53:671][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.20-09.27.53:678][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.20-09.27.53:680][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.20-09.27.53:680][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.07.20-09.27.53:684][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.20-09.27.53:685][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.20-09.27.53:692][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.20-09.27.53:692][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.20-09.27.53:694][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.20-09.27.53:694][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.20-09.27.53:694][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.20-09.27.53:694][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.20-09.27.53:694][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.20-09.27.53:695][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.20-09.27.53:697][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.20-09.27.53:697][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.20-09.27.53:697][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.20-09.27.53:905][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.20-09.27.53:906][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.20-09.27.53:961][  0]LogAudioMixer: Display: Using Audio Hardware Device Ηχεία (Realtek(R) Audio)
+[2023.07.20-09.27.53:998][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.20-09.27.53:998][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.20-09.27.53:999][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.20-09.27.54:003][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.07.20-09.27.54:004][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.20-09.27.54:004][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.20-09.27.54:004][  0]LogInit: FAudioDevice initialized.
+[2023.07.20-09.27.54:027][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.07.20-09.27.54:027][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.20-09.27.54:027][  0]LogInit: Texture streaming: Enabled
+[2023.07.20-09.27.54:061][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.07.20-09.27.54:061][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.07.20-09.27.54:182][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.20-09.27.54:577][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.20-09.27.54:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.20-09.27.54:625][  0]LogInit: Display: Game Engine Initialized.
+[2023.07.20-09.27.54:658][  0]LogInit: Display: Starting Game.
+[2023.07.20-09.27.54:694][  0]LogNet: Browse: /Game/Maps/Main?Name=Player
+[2023.07.20-09.27.54:705][  0]LogLoad: LoadMap: /Game/Maps/Main?Name=Player
+[2023.07.20-09.27.54:706][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.07.20-09.27.54:712][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.20-09.27.54:745][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.20-09.27.54:927][  0]LogStreaming: Display: 0.011 ms (0.003+0.008) ms for processing 27/27 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/1 (73->73 tracked) packages and 0/26 (76->76 tracked) public exports.
+[2023.07.20-09.27.54:928][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.20-09.27.55:042][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.07.20-09.27.55:110][  0]LogTaskGraph: Warning: Task graph took  57.40ms for RT to recieve broadcast.
+[2023.07.20-09.27.55:110][  0]LogTaskGraph: Warning: Task graph took  59.92ms for RT to recieve broadcast and do processing.
+[2023.07.20-09.27.55:243][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2023.07.20-09.27.55:243][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.20-09.27.55:266][  0]LogAIModule: Creating AISystem for world Main
+[2023.07.20-09.27.55:325][  0]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2023.07.20-09.27.55:544][  0]LogWorld: Bringing World /Game/Maps/Main.Main up for play (max tick rate 0) at 2023.07.20-12.27.55
+[2023.07.20-09.27.55:552][  0]LogWorld: Bringing up level for play took: 0.167391
+[2023.07.20-09.27.55:753][  0]LogLoad: Took 1.048133 seconds to LoadMap(/Game/Maps/Main)
+[2023.07.20-09.27.55:859][  0]LogSlate: Took 0.018874 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2023.07.20-09.27.55:875][  0]LogViewport: Scene viewport resized to 1920x1080, mode WindowedFullscreen.
+[2023.07.20-09.27.56:213][  0]LogSlate: Took 0.044800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.20-09.27.56:389][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2023.07.20-09.27.56:395][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=140080, PathHashSize=16, EntriesSize=19104, TotalSize=159200
+[2023.07.20-09.27.56:395][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2023.07.20-09.27.56:395][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2023.07.20-09.27.56:412][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.20-09.27.56:412][  0]LogLoad: (Engine Initialization) Total time: 8.46 seconds
+[2023.07.20-09.27.56:886][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.20-09.27.56:996][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.20-09.27.57:099][  0]LogSlate: Slate font cache was flushed
+[2023.07.20-09.27.57:296][  1]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.20-09.27.57:297][  1]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2023.07.20-09.28.17:753][880]LogWindowsDesktop: Alt-F4 pressed!
+[2023.07.20-09.28.17:766][880]LogSlate: Request Window 'ToonTanks (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.07.20-09.28.17:786][880]LogSlate: Window 'ToonTanks (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.07.20-09.28.17:787][880]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.20-09.28.17:798][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.20-09.28.17:798][880]LogEngine: All Windows Closed
+[2023.07.20-09.28.17:798][880]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.07.20-09.28.17:798][880]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.07.20-09.28.17:798][880]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.07.20-09.28.17:798][881]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.20-09.28.17:798][881]LogInit: Display: PreExit Game.
+[2023.07.20-09.28.17:803][881]LogWorld: BeginTearingDown for /Game/Maps/Main
+[2023.07.20-09.28.17:803][881]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.07.20-09.28.17:804][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.20-09.28.18:630][881]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.20-09.28.18:631][881]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.20-09.28.18:631][881]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2023.07.20-09.28.18:671][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.20-09.28.18:671][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.20-09.28.18:681][881]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.20-09.28.18:684][881]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.20-09.28.18:684][881]LogExit: Preparing to exit.
+[2023.07.20-09.28.18:684][881]LogMoviePlayer: Shutting down movie player
+[2023.07.20-09.28.18:793][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.20-09.28.18:868][881]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.07.20-09.28.18:886][881]LogExit: Game engine shut down
+[2023.07.20-09.28.19:159][881]LogExit: Object subsystem successfully closed.
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module AutomationController (304)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module AutomationWorker (302)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module Voice (300)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module AIModule (298)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module GameplayDebugger (297)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module NavigationSystem (295)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (292)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (290)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module WebMMedia (288)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (286)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (284)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (282)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module CharacterAI (280)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module SessionServices (278)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module LiveCoding (276)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (274)
+[2023.07.20-09.28.19:197][881]LogModuleManager: Shutting down and abandoning module MovieScene (272)
+[2023.07.20-09.28.19:205][881]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (270)
+[2023.07.20-09.28.19:205][881]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (268)
+[2023.07.20-09.28.19:205][881]LogModuleManager: Shutting down and abandoning module AudioMixer (267)
+[2023.07.20-09.28.19:205][881]LogModuleManager: Shutting down and abandoning module AudioMixerCore (266)
+[2023.07.20-09.28.19:205][881]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (262)
+[2023.07.20-09.28.19:205][881]LogModuleManager: Shutting down and abandoning module TypedElementFramework (260)
+[2023.07.20-09.28.19:205][881]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (258)
+[2023.07.20-09.28.19:205][881]LogModuleManager: Shutting down and abandoning module ProfilerService (256)
+[2023.07.20-09.28.19:350][881]LogModuleManager: Shutting down and abandoning module TaskGraph (254)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module Synthesis (252)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module ResonanceAudio (250)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (248)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (246)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module GooglePAD (244)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module DynamicMesh (242)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (240)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (238)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module GeometryCache (236)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (234)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module CableComponent (232)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module AudioCapture (230)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (229)
+[2023.07.20-09.28.19:394][881]LogModuleManager: Shutting down and abandoning module AssetTags (226)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (224)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module AppleImageUtils (222)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module AndroidPermission (220)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (218)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module TemplateSequence (214)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module SequencerScripting (212)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module MediaCompositing (210)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module ImgMedia (208)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (206)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (204)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module ChaosNiagara (202)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module BackChannel (200)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module AutomationUtils (198)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module UObjectPlugin (196)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (194)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module ControlRigSpline (192)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module ToonTanks (190)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module SoundFields (188)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module SignificanceManager (186)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (184)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (182)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (180)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (179)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (176)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module ActorSequence (174)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module UdpMessaging (172)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module TcpMessaging (170)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (168)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (166)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module Niagara (164)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module SignalProcessing (163)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module NiagaraCore (160)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module PBIK (158)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module FullBodyIK (156)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module FacialAnimation (154)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module AnimationSharing (152)
+[2023.07.20-09.28.19:395][881]LogModuleManager: Shutting down and abandoning module GameplayCameras (150)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module IKRig (148)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module ControlRig (146)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module LevelSequence (145)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module Paper2D (142)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (140)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (138)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module AndroidFileServer (136)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (134)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module PacketHandler (132)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (130)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module MediaAssets (128)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module Overlay (126)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module FunctionalTesting (124)
+[2023.07.20-09.28.19:396][881]LogModuleManager: Shutting down and abandoning module MessageLog (122)
+[2023.07.20-09.28.19:410][881]LogModuleManager: Shutting down and abandoning module UMG (120)
+[2023.07.20-09.28.19:410][881]LogModuleManager: Shutting down and abandoning module SlateReflector (118)
+[2023.07.20-09.28.19:424][881]LogModuleManager: Shutting down and abandoning module Slate (116)
+[2023.07.20-09.28.19:424][881]LogModuleManager: Shutting down and abandoning module SlateCore (114)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module MRMesh (112)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module Messaging (110)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (108)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module Networking (106)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module Core (104)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module ImageWrapper (100)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module InputCore (98)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module Settings (96)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (94)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (93)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module Chaos (90)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module GeometryCore (89)
+[2023.07.20-09.28.19:425][881]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (86)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (85)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module AVEncoder (84)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module D3D11RHI (80)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (78)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module ChunkDownloader (74)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (70)
+[2023.07.20-09.28.19:426][881]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2023.07.20-09.28.19:427][881]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2023.07.20-09.28.19:434][881]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2023.07.20-09.28.19:476][881]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2023.07.20-09.28.19:476][881]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (58)
+[2023.07.20-09.28.19:476][881]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (56)
+[2023.07.20-09.28.19:486][881]LogModuleManager: Shutting down and abandoning module WmfMedia (54)
+[2023.07.20-09.28.19:486][881]LogModuleManager: Shutting down and abandoning module Media (53)
+[2023.07.20-09.28.19:486][881]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (50)
+[2023.07.20-09.28.19:486][881]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (48)
+[2023.07.20-09.28.19:486][881]LogModuleManager: Shutting down and abandoning module NiagaraShader (46)
+[2023.07.20-09.28.19:486][881]LogModuleManager: Shutting down and abandoning module ChaosCloth (44)
+[2023.07.20-09.28.19:486][881]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2023.07.20-09.28.19:486][881]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module PixWinPlugin (38)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module AISupportModule (36)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (34)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (32)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (30)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module PlatformCrypto (28)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2023.07.20-09.28.19:487][881]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2023.07.20-09.28.19:488][881]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2023.07.20-09.28.19:488][881]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2023.07.20-09.28.19:488][881]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2023.07.20-09.28.19:489][881]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.07.20-09.28.19:546][881]LogD3D11RHI: Shutdown
+[2023.07.20-09.28.19:546][881]LogD3D11RHI: CleanupD3DDevice
+[2023.07.20-09.28.19:549][881]LogExit: Exiting.
+[2023.07.20-09.28.19:567][881]Log file closed, 07/20/23 12:28:19

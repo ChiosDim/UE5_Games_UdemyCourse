@@ -81,6 +81,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FD1B57146C5670EF0055D6011FA87C02ADF6295C",
+			"Assets": [
+				"/Game/Assets/Materials/M_ParticleBase"
+			]
+		},
+		{
+			"ShaderMapHash": "7F00499C577554E679585626AA8E9438B648A4A0",
+			"Assets": [
+				"/Game/Assets/Materials/M_EmissiveBase"
+			]
+		},
+		{
 			"ShaderMapHash": "9CCBF56CDD8E0AD8CC31A8435C88D743B98E9ED1",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
@@ -112,6 +124,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -121,12 +139,6 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -188,6 +200,12 @@
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D77D735B120E756C27CD3ED64A3100DFE3BAE167",
+			"Assets": [
+				"/Game/Assets/Materials/M_TextureBase"
 			]
 		},
 		{
@@ -263,33 +281,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FD1B57146C5670EF0055D6011FA87C02ADF6295C",
-			"Assets": [
-				"/Game/Assets/Materials/M_ParticleBase"
-			]
-		},
-		{
-			"ShaderMapHash": "C34C52E1E78B73E18CAA0C0EDD0E237FD0E5BB84",
-			"Assets": [
-				"/Game/Assets/Materials/Base/M_Grid_Inst"
-			]
-		},
-		{
-			"ShaderMapHash": "7F00499C577554E679585626AA8E9438B648A4A0",
-			"Assets": [
-				"/Game/Assets/Materials/M_EmissiveBase"
-			]
-		},
-		{
 			"ShaderMapHash": "6CE2DF23CF0E568A153C563FC7773AC722A29E67",
 			"Assets": [
 				"/Game/Assets/Materials/Base/M_GridBase"
 			]
 		},
 		{
-			"ShaderMapHash": "D77D735B120E756C27CD3ED64A3100DFE3BAE167",
+			"ShaderMapHash": "C34C52E1E78B73E18CAA0C0EDD0E237FD0E5BB84",
 			"Assets": [
-				"/Game/Assets/Materials/M_TextureBase"
+				"/Game/Assets/Materials/Base/M_Grid_Inst"
 			]
 		}
 	]
