@@ -1,0 +1,707 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "SimpleShooter Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Test",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Test",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Test",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Shipping",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Shipping",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"Win64",
+				"Shipping",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter HoloLens Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter HoloLens DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter HoloLens Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Test",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Test",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter HoloLens Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Test",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Shipping",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Shipping",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooter HoloLens Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooter HoloLens Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooter",
+				"HoloLens",
+				"Shipping",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooterEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"Debug",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooterEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"DebugGame",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"SimpleShooterEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		},
+		{
+			"label": "SimpleShooterEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"SimpleShooterEditor",
+				"Win64",
+				"Development",
+				"E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\SimpleShooter.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "E:\\UE_5.0"
+			}
+		}
+	]
+}
