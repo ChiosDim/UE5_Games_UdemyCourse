@@ -64,6 +64,3 @@ void AShooterCharacter::LookRightRate(float AxisValue)
 	AddControllerPitchInput(AxisValue);
 }
 */
-
-
-
