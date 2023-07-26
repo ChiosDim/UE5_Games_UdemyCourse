@@ -13,6 +13,12 @@ UCLASS()
 class SIMPLESHOOTER_API AShooterAIController : public AAIController
 {
 	GENERATED_BODY()
+
+public:
+
+// Called every frame
+	virtual void Tick(float DeltaSeconds) override;
+	
 	
 protected:
 
