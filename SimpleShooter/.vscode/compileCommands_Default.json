@@ -113,5 +113,15 @@
         "file": "e:\\\\Github\\\\UE5_Games_UdemyCourse\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\KillEmAllGameMode.h",
         "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
         "directory": "E:\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Github\\\\UE5_Games_UdemyCourse\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterPlayerController.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+        "directory": "E:\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Github\\\\UE5_Games_UdemyCourse\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterPlayerController.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe\" @E:\\Github\\UE5_Games_UdemyCourse\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+        "directory": "E:\\UE_5.0\\Engine\\Source"
     }
 ]
